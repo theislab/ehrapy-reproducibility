@@ -142,24 +142,14 @@ def predict(saved_path):
     model.load_state_dict(torch.load(saved_path))
     model.eval()
 
-    features = {}
-
-    def get_features(name):
-        def hook(model, input, output):
-            features[name] = output.detach()
-
-        return hook
-
-    model.fc2.register_forward_hook(get_features("flatten"))
-
     for inputs, labels in test_dataloader:
         inputs, labels = inputs.to(device), labels.to(device)
 
         # Forward Pass
-        outputs = model(inputs)
+        outputs = model.first_part(inputs)
 
         print(outputs.shape)
-
+        break
         # np.savetxt("features.csv", out[1], fmt='%.5f', delimiter=",")
         # print("Prediction completed, outputs dumped!")
 

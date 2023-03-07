@@ -85,6 +85,12 @@ class DeepFlow(nn.Module):
         self.softmax = nn.Softmax(dim=1)
 
     def forward(self, x):
+        x = self.first_part(x)
+        x = self.fc(x)
+        x = self.softmax(x)
+        return x
+    
+    def first_part(self, x):
         x = self.conv1(x)
         x = self.in3a(x)
         x = self.in3b(x)
@@ -101,7 +107,5 @@ class DeepFlow(nn.Module):
         x = self.in6c(x)
         x = self.pool(x)
         x = self.flatten(x)
-        
-        x = self.fc(x)
-        x = self.softmax(x)
+
         return x
