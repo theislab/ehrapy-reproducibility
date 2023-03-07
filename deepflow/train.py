@@ -99,22 +99,32 @@ def train_ifc():
             torch.cuda.synchronize()
             print(f"one iter: {start.elapsed_time(end)/60000}")  # minutes
 
-            if i % 50 == 49:  # print every 1000 mini-batches
+            if i % 2 == 1:  # print every 1000 mini-batches
                 print(
                     f"[Epoch {epoch + 1}, iter {i + 1:5d}] acc: {acc(outputs, labels)}, loss: {train_loss / 50:.3f}"
                 )
+                
                 train_loss = 0.0
-
                 valid_loss = 0.0
+                
                 model.eval()  # Optional when not using Model Specific layer
-                for inputs, labels in test_dataloader:
+                for i, data in enumerate(test_dataloader):
+                    inputs, labels = data
                     inputs, labels = inputs.to(device), labels.to(device)
+                
                     # Forward Pass
                     outputs = model(inputs)
                     # Find the Loss
                     loss = criterion(outputs, labels)
                     # Calculate Loss
                     valid_loss += loss.item()
+                    if i == 0:
+                        valid_outputs = outputs
+                        valid_labels =labels
+                    valid_outputs.append(outputs)
+                    valid_labels.append(labels)
+                valid_acc = acc(valid_outputs, valid_labels)
+                print(f"validation accuracy: {valid_acc}")
                 if min_valid_loss > valid_loss:
                     PATH = os.path.join(model_prefix, f"epoch_{epoch}_iter_{i}.pth")
                     print(
