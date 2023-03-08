@@ -109,3 +109,100 @@ class DeepFlow(nn.Module):
         x = self.flatten(x)
 
         return x
+
+
+
+
+class ConvNet(nn.Module):
+    def __init__(self,num_classes=6):
+        super(ConvNet,self).__init__()
+        
+        #Output size after convolution filter
+        #((w-f+2P)/s) +1
+        
+        #Input shape= (256,3,150,150)
+        
+        self.conv1=nn.Conv2d(in_channels=3,out_channels=12,kernel_size=3,stride=1,padding=1)
+        #Shape= (256,12,150,150)
+        self.bn1=nn.BatchNorm2d(num_features=12)
+        #Shape= (256,12,150,150)
+        self.relu1=nn.ReLU()
+        #Shape= (256,12,150,150)
+        self.pool=nn.MaxPool2d(kernel_size=2)
+        #Reduce the image size be factor 2
+        #Shape= (256,12,75,75)
+        
+        
+        self.conv2=nn.Conv2d(in_channels=12,out_channels=20,kernel_size=3,stride=1,padding=1)
+        #Shape= (256,20,150,150)
+        self.bn2=nn.BatchNorm2d(num_features=20)
+        #Shape= (256,20,150,150)
+        self.relu2=nn.ReLU()
+        #Shape= (256,20,150,150)
+        
+        
+        
+        self.conv3=nn.Conv2d(in_channels=20,out_channels=32,kernel_size=3,stride=1,padding=1)
+        #Shape= (256,32,75,75)
+        self.relu3=nn.ReLU()
+        #Shape= (256,32,75,75)
+        
+        
+        
+        self.conv4=nn.Conv2d(in_channels=32,out_channels=46,kernel_size=3,stride=1,padding=1)
+        #Shape= (256,46,75,75)
+        self.bn4=nn.BatchNorm2d(num_features=46)
+        #Shape= (256,46,75,75)
+        self.relu4=nn.ReLU()
+        #Shape= (256,46,75,75)
+        
+        self.conv5=nn.Conv2d(in_channels=46,out_channels=60,kernel_size=3,stride=1,padding=1)
+        #Shape= (256,60,75,75)
+        self.bn5=nn.BatchNorm2d(num_features=60)
+        #Shape= (256,60,75,75)
+        self.relu5=nn.ReLU()
+        #Shape= (256,60,75,75)
+        
+        
+        self.fc=nn.Linear(in_features=75 * 75 * 60,out_features=num_classes)
+        
+        
+        
+        #Feed forwad function
+        
+    def forward(self,input):
+        output = self.first_part(input)
+            
+            
+        output=self.fc(output)
+            
+        return output
+    
+
+    def first_part(self, input):
+        output=self.conv1(input)
+        output=self.bn1(output)
+        output=self.relu1(output)
+        output=self.pool(output)
+        
+        output=self.conv2(output)
+        output=self.bn2(output)
+        output=self.relu2(output)
+            
+        output=self.conv3(output)
+        output=self.relu3(output)
+            
+        output=self.conv4(output)
+        output=self.bn4(output)
+        output=self.relu4(output)
+        
+        output=self.conv5(output)
+        output=self.bn5(output)
+        output=self.relu5(output)
+            
+            
+            #Above output will be in matrix form, with shape (256,60,75,75)
+            
+        output=output.view(-1,60*75*75)
+
+        return output
