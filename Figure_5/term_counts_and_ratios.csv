@@ -1,0 +1,810 @@
+term;pos;neg;ratio;count;drugcat
+Amino Acids, Peptides, and Proteins;277;0;inf;11;drugcat_Amino_Acids,_Peptides,_and_Proteins
+BCRP/ABCG2 Inducers;277;0;inf;1;drugcat_BCRP/ABCG2_Inducers
+Membrane Lipids;277;0;inf;2;drugcat_Membrane_Lipids
+Imidazoles;277;0;inf;2;drugcat_Imidazoles
+Cholestenes;277;0;inf;1;drugcat_Cholestenes
+Cholestanes;277;0;inf;1;drugcat_Cholestanes
+P-glycoprotein inhibitors;277;0;inf;20;drugcat_P_glycoprotein_inhibitors
+Sterols;277;0;inf;1;drugcat_Sterols
+Steroids;277;0;inf;10;drugcat_Steroids
+Hemoglobins;277;0;inf;1;drugcat_Hemoglobins
+Hemeproteins;277;0;inf;1;drugcat_Hemeproteins
+Blood Proteins;277;0;inf;4;drugcat_Blood_Proteins
+Lipids;277;0;inf;6;drugcat_Lipids
+Globins;277;0;inf;1;drugcat_Globins
+Proteins;277;0;inf;6;drugcat_Proteins
+Fused-Ring Compounds;277;0;inf;10;drugcat_Fused_Ring_Compounds
+Agents causing hyperkalemia;174;103;1.6893203883495145;14;drugcat_Agents_causing_hyperkalemia
+Alimentary Tract and Metabolism;174;103;1.6893203883495145;23;drugcat_Alimentary_Tract_and_Metabolism
+Mineral Supplements;174;103;1.6893203883495145;9;drugcat_Mineral_Supplements
+Electrolyte Solutions;174;103;1.6893203883495145;9;drugcat_Electrolyte_Solutions
+Blood Substitutes and Perfusion Solutions;174;103;1.6893203883495145;11;drugcat_Blood_Substitutes_and_Perfusion_Solutions
+Blood and Blood Forming Organs;174;103;1.6893203883495145;14;drugcat_Blood_and_Blood_Forming_Organs
+Replacement Preparations;174;103;1.6893203883495145;10;drugcat_Replacement_Preparations
+I.V. Solution Additives;174;103;1.6893203883495145;9;drugcat_I.V._Solution_Additives
+Chlorides;174;103;1.6893203883495145;6;drugcat_Chlorides
+Chlorine Compounds;174;103;1.6893203883495145;6;drugcat_Chlorine_Compounds
+Drugs that are Mainly Renally Excreted;174;103;1.6893203883495145;33;drugcat_Drugs_that_are_Mainly_Renally_Excreted
+EENT Drugs, Miscellaneous;173;104;1.6634615384615385;3;drugcat_EENT_Drugs,_Miscellaneous
+Other Miscellaneous Therapeutic Agents;173;104;1.6634615384615385;3;drugcat_Other_Miscellaneous_Therapeutic_Agents
+Diluents;173;104;1.6634615384615385;4;drugcat_Diluents
+Irrigating Solutions;173;104;1.6634615384615385;5;drugcat_Irrigating_Solutions
+Hemodialysis Solution;173;104;1.6634615384615385;5;drugcat_Hemodialysis_Solution
+Respiratory Agents, Miscellaneous;172;105;1.638095238095238;2;drugcat_Respiratory_Agents,_Miscellaneous
+Sodium;172;105;1.638095238095238;2;drugcat_Sodium
+Sodium Compounds;172;105;1.638095238095238;3;drugcat_Sodium_Compounds
+Salt Solutions;172;105;1.638095238095238;3;drugcat_Salt_Solutions
+Cytochrome P-450 CYP3A Substrates;171;106;1.6132075471698113;20;drugcat_Cytochrome_P_450_CYP3A_Substrates
+Cytochrome P-450 CYP3A4 Substrates;171;106;1.6132075471698113;20;drugcat_Cytochrome_P_450_CYP3A4_Substrates
+Cytochrome P-450 Substrates;171;106;1.6132075471698113;25;drugcat_Cytochrome_P_450_Substrates
+Peripheral Nervous System Agents;170;107;1.588785046728972;12;drugcat_Peripheral_Nervous_System_Agents
+Cytochrome P-450 Enzyme Inhibitors;167;110;1.518181818181818;27;drugcat_Cytochrome_P_450_Enzyme_Inhibitors
+Cardiovascular Agents;166;111;1.4954954954954955;15;drugcat_Cardiovascular_Agents
+Minerals;166;111;1.4954954954954955;8;drugcat_Minerals
+P-glycoprotein substrates;166;111;1.4954954954954955;16;drugcat_P_glycoprotein_substrates
+Oxygen Compounds;165;112;1.4732142857142858;3;drugcat_Oxygen_Compounds
+Central Nervous System Agents;165;112;1.4732142857142858;16;drugcat_Central_Nervous_System_Agents
+Potassium Salt;164;113;1.4513274336283186;3;drugcat_Potassium_Salt
+Potassium Compounds;164;113;1.4513274336283186;3;drugcat_Potassium_Compounds
+Dermatologicals;164;113;1.4513274336283186;18;drugcat_Dermatologicals
+Ophthalmologicals;164;113;1.4513274336283186;10;drugcat_Ophthalmologicals
+Anti-Inflammatory Agents;164;113;1.4513274336283186;7;drugcat_Anti_Inflammatory_Agents
+Thyroxine-binding globulin substrates;163;114;1.4298245614035088;3;drugcat_Thyroxine_binding_globulin_substrates
+Cytochrome P-450 CYP3A4 Inhibitors;162;115;1.4086956521739131;15;drugcat_Cytochrome_P_450_CYP3A4_Inhibitors
+Amides;162;115;1.4086956521739131;20;drugcat_Amides
+Cytochrome P-450 CYP3A Inhibitors;162;115;1.4086956521739131;15;drugcat_Cytochrome_P_450_CYP3A_Inhibitors
+Hormones, Hormone Substitutes, and Hormone Antagonists;161;116;1.3879310344827587;12;drugcat_Hormones,_Hormone_Substitutes,_and_Hormone_Antagonists
+Pregnanes;161;116;1.3879310344827587;7;drugcat_Pregnanes
+Cytochrome P-450 CYP3A4 Inducers;160;117;1.3675213675213675;8;drugcat_Cytochrome_P_450_CYP3A4_Inducers
+Cytochrome P-450 CYP3A4 Inducers (strength unknown);160;117;1.3675213675213675;5;drugcat_Cytochrome_P_450_CYP3A4_Inducers_strength_unknown
+Cytochrome P-450 Enzyme Inducers;160;117;1.3675213675213675;9;drugcat_Cytochrome_P_450_Enzyme_Inducers
+Cytochrome P-450 CYP3A Inducers;160;117;1.3675213675213675;9;drugcat_Cytochrome_P_450_CYP3A_Inducers
+Anti-Infective Agents;159;118;1.347457627118644;32;drugcat_Anti_Infective_Agents
+Antiinfectives for Systemic Use;159;118;1.347457627118644;28;drugcat_Antiinfectives_for_Systemic_Use
+Adrenal Cortex Hormones;159;118;1.347457627118644;6;drugcat_Adrenal_Cortex_Hormones
+Adrenals;159;118;1.347457627118644;6;drugcat_Adrenals
+Cytochrome P-450 CYP3A5 Inducers;159;118;1.347457627118644;6;drugcat_Cytochrome_P_450_CYP3A5_Inducers
+Hormones;159;118;1.347457627118644;8;drugcat_Hormones
+Corticosteroids;159;118;1.347457627118644;6;drugcat_Corticosteroids
+Sulfur Compounds;157;120;1.3083333333333333;21;drugcat_Sulfur_Compounds
+Heterocyclic Compounds, Fused-Ring;157;120;1.3083333333333333;24;drugcat_Heterocyclic_Compounds,_Fused_Ring
+Sensory Organs;157;120;1.3083333333333333;8;drugcat_Sensory_Organs
+OAT1/SLC22A6 inhibitors;156;121;1.2892561983471074;18;drugcat_OAT1/SLC22A6_inhibitors
+OAT3/SLC22A8 Inhibitors;156;121;1.2892561983471074;11;drugcat_OAT3/SLC22A8_Inhibitors
+Carbohydrates;155;122;1.2704918032786885;7;drugcat_Carbohydrates
+Antidiarrheals, Intestinal Antiinflammatory/antiinfective Agents;155;122;1.2704918032786885;4;drugcat_Antidiarrheals,_Intestinal_Antiinflammatory/antiinfective_Agents
+Vasoprotectives;155;122;1.2704918032786885;5;drugcat_Vasoprotectives
+Narrow Therapeutic Index Drugs;154;123;1.2520325203252032;6;drugcat_Narrow_Therapeutic_Index_Drugs
+Photosensitizing Agents;151;126;1.1984126984126984;11;drugcat_Photosensitizing_Agents
+Autonomic Agents;151;126;1.1984126984126984;6;drugcat_Autonomic_Agents
+Nervous System;151;126;1.1984126984126984;12;drugcat_Nervous_System
+Drugs causing inadvertant photosensitivity;151;126;1.1984126984126984;11;drugcat_Drugs_causing_inadvertant_photosensitivity
+Anticoagulants;150;127;1.1811023622047243;2;drugcat_Anticoagulants
+OAT3/SLC22A8 Substrates;150;127;1.1811023622047243;11;drugcat_OAT3/SLC22A8_Substrates
+Cytochrome P-450 CYP3A4 Inhibitors (strength unknown);150;127;1.1811023622047243;6;drugcat_Cytochrome_P_450_CYP3A4_Inhibitors_strength_unknown
+Nephrotoxic agents;149;128;1.1640625;8;drugcat_Nephrotoxic_agents
+Anti-Bacterial Agents;149;128;1.1640625;19;drugcat_Anti_Bacterial_Agents
+Antibacterials for Systemic Use;149;128;1.1640625;21;drugcat_Antibacterials_for_Systemic_Use
+Antivaricose Therapy;148;129;1.1472868217054264;1;drugcat_Antivaricose_Therapy
+Fibrin Modulating Agents;148;129;1.1472868217054264;1;drugcat_Fibrin_Modulating_Agents
+Polysaccharides;148;129;1.1472868217054264;2;drugcat_Polysaccharides
+Glycosaminoglycans;148;129;1.1472868217054264;1;drugcat_Glycosaminoglycans
+Hematologic Agents;148;129;1.1472868217054264;5;drugcat_Hematologic_Agents
+Heparin and similars;148;129;1.1472868217054264;1;drugcat_Heparin_and_similars
+Heparins or Heparinoids for Topical Use;148;129;1.1472868217054264;1;drugcat_Heparins_or_Heparinoids_for_Topical_Use
+Miscellaneous Therapeutic Agents;148;129;1.1472868217054264;1;drugcat_Miscellaneous_Therapeutic_Agents
+Heparin Group;148;129;1.1472868217054264;1;drugcat_Heparin_Group
+Cytochrome P-450 CYP2C9 Substrates;147;130;1.1307692307692307;9;drugcat_Cytochrome_P_450_CYP2C9_Substrates
+Carbon Compounds, Inorganic;144;133;1.0827067669172932;2;drugcat_Carbon_Compounds,_Inorganic
+Bicarbonates;144;133;1.0827067669172932;1;drugcat_Bicarbonates
+Carbonates;144;133;1.0827067669172932;2;drugcat_Carbonates
+Immunosuppressive Agents;144;133;1.0827067669172932;8;drugcat_Immunosuppressive_Agents
+Cytochrome P-450 CYP2C8 Substrates;144;133;1.0827067669172932;6;drugcat_Cytochrome_P_450_CYP2C8_Substrates
+Gastric Acid Lowering Agents;144;133;1.0827067669172932;2;drugcat_Gastric_Acid_Lowering_Agents
+Carbonic Acid;144;133;1.0827067669172932;2;drugcat_Carbonic_Acid
+Urinary Alkalinisers;144;133;1.0827067669172932;1;drugcat_Urinary_Alkalinisers
+Amines;144;133;1.0827067669172932;8;drugcat_Amines
+Antacids and Adsorbents;144;133;1.0827067669172932;3;drugcat_Antacids_and_Adsorbents
+Antacids;144;133;1.0827067669172932;2;drugcat_Antacids
+Central Nervous System Depressants;143;134;1.0671641791044777;16;drugcat_Central_Nervous_System_Depressants
+UGT1A1 Substrates;143;134;1.0671641791044777;4;drugcat_UGT1A1_Substrates
+Corticosteroid Hormone Receptor Agonists;142;135;1.0518518518518518;4;drugcat_Corticosteroid_Hormone_Receptor_Agonists
+Nasal Preparations;142;135;1.0518518518518518;4;drugcat_Nasal_Preparations
+Corticosteroids, Dermatological Preparations;142;135;1.0518518518518518;4;drugcat_Corticosteroids,_Dermatological_Preparations
+Enzyme Inhibitors;142;135;1.0518518518518518;22;drugcat_Enzyme_Inhibitors
+Sensory System Agents;141;136;1.036764705882353;5;drugcat_Sensory_System_Agents
+Acids, Carbocyclic;140;137;1.0218978102189782;2;drugcat_Acids,_Carbocyclic
+Anesthetics;140;137;1.0218978102189782;7;drugcat_Anesthetics
+Aniline Compounds;140;137;1.0218978102189782;3;drugcat_Aniline_Compounds
+Membrane Transport Modulators;140;137;1.0218978102189782;5;drugcat_Membrane_Transport_Modulators
+Compounds used in a research, industrial, or household setting;140;137;1.0218978102189782;11;drugcat_Compounds_used_in_a_research,_industrial,_or_household_setting
+Agents to Treat Airway Disease;139;138;1.0072463768115942;2;drugcat_Agents_to_Treat_Airway_Disease
+Corticosteroids, Potent (Group III);139;138;1.0072463768115942;2;drugcat_Corticosteroids,_Potent_Group_III
+Intestinal Antiinflammatory Agents;139;138;1.0072463768115942;2;drugcat_Intestinal_Antiinflammatory_Agents
+Cytochrome P-450 CYP3A7 Substrates;139;138;1.0072463768115942;9;drugcat_Cytochrome_P_450_CYP3A7_Substrates
+Corticosteroids Acting Locally;139;138;1.0072463768115942;2;drugcat_Corticosteroids_Acting_Locally
+Cytochrome P-450 CYP3A5 Substrates;139;138;1.0072463768115942;9;drugcat_Cytochrome_P_450_CYP3A5_Substrates
+Drugs for Obstructive Airway Diseases;139;138;1.0072463768115942;3;drugcat_Drugs_for_Obstructive_Airway_Diseases
+Respiratory System Agents;139;138;1.0072463768115942;2;drugcat_Respiratory_System_Agents
+Anti-Asthmatic Agents;139;138;1.0072463768115942;2;drugcat_Anti_Asthmatic_Agents
+QTc Prolonging Agents;138;139;0.9928057553956835;14;drugcat_QTc_Prolonging_Agents
+Cytochrome P-450 CYP2C19 Substrates;138;139;0.9928057553956835;7;drugcat_Cytochrome_P_450_CYP2C19_Substrates
+BSEP/ABCB11 Substrates;137;140;0.9785714285714285;6;drugcat_BSEP/ABCB11_Substrates
+Pregnenes;135;142;0.9507042253521126;3;drugcat_Pregnenes
+Protective Agents;134;143;0.9370629370629371;3;drugcat_Protective_Agents
+Sulfones;133;144;0.9236111111111112;6;drugcat_Sulfones
+Hypotensive Agents;133;144;0.9236111111111112;11;drugcat_Hypotensive_Agents
+Cytochrome P-450 CYP2B6 Inducers (strength unknown);132;145;0.9103448275862069;3;drugcat_Cytochrome_P_450_CYP2B6_Inducers_strength_unknown
+Corticosteroids for Systemic Use;132;145;0.9103448275862069;3;drugcat_Corticosteroids_for_Systemic_Use
+Cytochrome P-450 CYP3A5 Inducers (moderate);132;145;0.9103448275862069;3;drugcat_Cytochrome_P_450_CYP3A5_Inducers_moderate
+Cytochrome P-450 CYP2C8 Inducers (strength unknown);132;145;0.9103448275862069;5;drugcat_Cytochrome_P_450_CYP2C8_Inducers_strength_unknown
+Pregnadienetriols;132;145;0.9103448275862069;4;drugcat_Pregnadienetriols
+Cytochrome P-450 CYP2A6 Inducers;132;145;0.9103448275862069;4;drugcat_Cytochrome_P_450_CYP2A6_Inducers
+Cytochrome P-450 CYP2B6 Inducers;132;145;0.9103448275862069;4;drugcat_Cytochrome_P_450_CYP2B6_Inducers
+Pregnadienes;132;145;0.9103448275862069;4;drugcat_Pregnadienes
+Cytochrome P-450 CYP2C19 Inducers;132;145;0.9103448275862069;4;drugcat_Cytochrome_P_450_CYP2C19_Inducers
+Cytochrome P-450 CYP2C19 Inducers (strength unknown);132;145;0.9103448275862069;4;drugcat_Cytochrome_P_450_CYP2C19_Inducers_strength_unknown
+Cytochrome P-450 CYP2C8 Inducers;132;145;0.9103448275862069;5;drugcat_Cytochrome_P_450_CYP2C8_Inducers
+Hypnotics and Sedatives;130;147;0.8843537414965986;6;drugcat_Hypnotics_and_Sedatives
+Analgesics;130;147;0.8843537414965986;4;drugcat_Analgesics
+Hyperglycemia-Associated Agents;129;148;0.8716216216216216;6;drugcat_Hyperglycemia_Associated_Agents
+Diuretics;129;148;0.8716216216216216;4;drugcat_Diuretics
+Agents that produce hypertension;129;148;0.8716216216216216;9;drugcat_Agents_that_produce_hypertension
+Natriuretic Agents;129;148;0.8716216216216216;5;drugcat_Natriuretic_Agents
+Psycholeptics;129;148;0.8716216216216216;6;drugcat_Psycholeptics
+Benzene Derivatives;129;148;0.8716216216216216;4;drugcat_Benzene_Derivatives
+Tranquilizing Agents;129;148;0.8716216216216216;3;drugcat_Tranquilizing_Agents
+Psychotropic Drugs;129;148;0.8716216216216216;3;drugcat_Psychotropic_Drugs
+Cytochrome P-450 CYP2C9 Inducers;128;149;0.8590604026845637;2;drugcat_Cytochrome_P_450_CYP2C9_Inducers
+Cytochrome P-450 CYP2C19 Inhibitors;128;149;0.8590604026845637;7;drugcat_Cytochrome_P_450_CYP2C19_Inhibitors
+Adjuvants, Anesthesia;128;149;0.8590604026845637;3;drugcat_Adjuvants,_Anesthesia
+GABA Modulators;128;149;0.8590604026845637;3;drugcat_GABA_Modulators
+Bronchodilator Agents;128;149;0.8590604026845637;1;drugcat_Bronchodilator_Agents
+GABA Agents;128;149;0.8590604026845637;3;drugcat_GABA_Agents
+Benzodiazepines and benzodiazepine derivatives;128;149;0.8590604026845637;2;drugcat_Benzodiazepines_and_benzodiazepine_derivatives
+Benzodiazepine hypnotics and sedatives;128;149;0.8590604026845637;2;drugcat_Benzodiazepine_hypnotics_and_sedatives
+Cytochrome P-450 CYP2C9 Inducers (strength unknown);128;149;0.8590604026845637;2;drugcat_Cytochrome_P_450_CYP2C9_Inducers_strength_unknown
+Experimental Unapproved Treatments for COVID-19;128;149;0.8590604026845637;4;drugcat_Experimental_Unapproved_Treatments_for_COVID_19
+Antineoplastic Agents, Hormonal;128;149;0.8590604026845637;3;drugcat_Antineoplastic_Agents,_Hormonal
+Anti-Anxiety Agents;128;149;0.8590604026845637;2;drugcat_Anti_Anxiety_Agents
+Antineoplastic Agents;128;149;0.8590604026845637;4;drugcat_Antineoplastic_Agents
+Pregnenediones;128;149;0.8590604026845637;2;drugcat_Pregnenediones
+Antihypertensive Agents;127;150;0.8466666666666667;6;drugcat_Antihypertensive_Agents
+Cytochrome P-450 CYP3A5 Inducers (strength unknown);127;150;0.8466666666666667;2;drugcat_Cytochrome_P_450_CYP3A5_Inducers_strength_unknown
+Sulfanilamides;127;150;0.8466666666666667;2;drugcat_Sulfanilamides
+Antihypertensive Agents Indicated for Hypertension;127;150;0.8466666666666667;4;drugcat_Antihypertensive_Agents_Indicated_for_Hypertension
+Glucocorticoids;127;150;0.8466666666666667;2;drugcat_Glucocorticoids
+Sulfonamides;127;150;0.8466666666666667;4;drugcat_Sulfonamides
+Cytochrome P-450 CYP2B6 Substrates;125;152;0.8223684210526315;5;drugcat_Cytochrome_P_450_CYP2B6_Substrates
+Agents that reduce seizure threshold;125;152;0.8223684210526315;12;drugcat_Agents_that_reduce_seizure_threshold
+Aminobenzoates;124;153;0.8104575163398693;1;drugcat_Aminobenzoates
+Ototoxic agents;124;153;0.8104575163398693;1;drugcat_Ototoxic_agents
+High-Ceiling Diuretics;124;153;0.8104575163398693;1;drugcat_High_Ceiling_Diuretics
+High-Ceiling Diuretics and Potassium-Sparing Agents;124;153;0.8104575163398693;1;drugcat_High_Ceiling_Diuretics_and_Potassium_Sparing_Agents
+Non Potassium Sparing Diuretics;124;153;0.8104575163398693;2;drugcat_Non_Potassium_Sparing_Diuretics
+Increased Diuresis at Loop of Henle;124;153;0.8104575163398693;1;drugcat_Increased_Diuresis_at_Loop_of_Henle
+Benzoates;124;153;0.8104575163398693;1;drugcat_Benzoates
+Sodium Potassium Chloride Symporter Inhibitors;124;153;0.8104575163398693;1;drugcat_Sodium_Potassium_Chloride_Symporter_Inhibitors
+beta-Lactams;123;154;0.7987012987012987;13;drugcat_beta_Lactams
+Lactams;123;154;0.7987012987012987;13;drugcat_Lactams
+Neuroprotective Agents;122;155;0.7870967741935484;1;drugcat_Neuroprotective_Agents
+Cytochrome P-450 CYP2C18 Substrates;122;155;0.7870967741935484;4;drugcat_Cytochrome_P_450_CYP2C18_Substrates
+Throat Preparations;121;156;0.7756410256410257;3;drugcat_Throat_Preparations
+Cytochrome P-450 CYP2C19 inhibitors (strength unknown);120;157;0.7643312101910829;5;drugcat_Cytochrome_P_450_CYP2C19_inhibitors_strength_unknown
+Anesthetics, Intravenous;119;158;0.7531645569620253;3;drugcat_Anesthetics,_Intravenous
+Anesthetics, General;119;158;0.7531645569620253;4;drugcat_Anesthetics,_General
+Potential QTc-Prolonging Agents;113;164;0.6890243902439024;9;drugcat_Potential_QTc_Prolonging_Agents
+Neurotransmitter Agents;113;164;0.6890243902439024;9;drugcat_Neurotransmitter_Agents
+Triazolobenzodiazepines;109;168;0.6488095238095238;1;drugcat_Triazolobenzodiazepines
+UGT1A4 substrates;109;168;0.6488095238095238;1;drugcat_UGT1A4_substrates
+UGT1A9 Substrates;107;170;0.6294117647058823;2;drugcat_UGT1A9_Substrates
+Anticonvulsants;107;170;0.6294117647058823;4;drugcat_Anticonvulsants
+Neuraxial Anesthetics;106;171;0.6198830409356725;2;drugcat_Neuraxial_Anesthetics
+Cytochrome P-450 CYP2E1 Inhibitors (strength unknown);105;172;0.6104651162790697;4;drugcat_Cytochrome_P_450_CYP2E1_Inhibitors_strength_unknown
+Cytochrome P-450 CYP2E1 Inhibitors;105;172;0.6104651162790697;4;drugcat_Cytochrome_P_450_CYP2E1_Inhibitors
+Agents causing angioedema;105;172;0.6104651162790697;3;drugcat_Agents_causing_angioedema
+Muscle Relaxants;103;174;0.5919540229885057;2;drugcat_Muscle_Relaxants
+Agents that produce neuromuscular block (indirect);100;177;0.5649717514124294;6;drugcat_Agents_that_produce_neuromuscular_block_indirect
+Penem Antibacterial;98;179;0.547486033519553;2;drugcat_Penem_Antibacterial
+Thienamycins;98;179;0.547486033519553;2;drugcat_Thienamycins
+Carbapenems;98;179;0.547486033519553;2;drugcat_Carbapenems
+Antirheumatic Agents;97;180;0.5388888888888889;1;drugcat_Antirheumatic_Agents
+UGT1A3 substrates;97;180;0.5388888888888889;1;drugcat_UGT1A3_substrates
+Non COX-2 selective NSAIDS;97;180;0.5388888888888889;1;drugcat_Non_COX_2_selective_NSAIDS
+OATP2B1/SLCO2B1 substrates;97;180;0.5388888888888889;1;drugcat_OATP2B1/SLCO2B1_substrates
+Propionates;97;180;0.5388888888888889;1;drugcat_Propionates
+Anti-Inflammatory Agents, Non-Steroidal;97;180;0.5388888888888889;1;drugcat_Anti_Inflammatory_Agents,_Non_Steroidal
+UGT2B7 substrates;97;180;0.5388888888888889;1;drugcat_UGT2B7_substrates
+Analgesics, Non-Narcotic;97;180;0.5388888888888889;2;drugcat_Analgesics,_Non_Narcotic
+Cyclooxygenase Inhibitors;97;180;0.5388888888888889;1;drugcat_Cyclooxygenase_Inhibitors
+UGT2B17 Inhibitors;97;180;0.5388888888888889;1;drugcat_UGT2B17_Inhibitors
+Antiinflammatory and Antirheumatic Products, Non-Steroids;97;180;0.5388888888888889;1;drugcat_Antiinflammatory_and_Antirheumatic_Products,_Non_Steroids
+COX-2 Inhibitors;97;180;0.5388888888888889;1;drugcat_COX_2_Inhibitors
+COX-1 Inhibitors;97;180;0.5388888888888889;1;drugcat_COX_1_Inhibitors
+Other Nonsteroidal Anti-inflammatory Agents;97;180;0.5388888888888889;1;drugcat_Other_Nonsteroidal_Anti_inflammatory_Agents
+UDP Glucuronosyltransferases Inhibitors;97;180;0.5388888888888889;1;drugcat_UDP_Glucuronosyltransferases_Inhibitors
+Antiinflammatory and Antirheumatic Products;97;180;0.5388888888888889;1;drugcat_Antiinflammatory_and_Antirheumatic_Products
+Antiinflammatory Products for Vaginal Administration;97;180;0.5388888888888889;1;drugcat_Antiinflammatory_Products_for_Vaginal_Administration
+Phenylpropionates;97;180;0.5388888888888889;1;drugcat_Phenylpropionates
+Topical Products for Joint and Muscular Pain;97;180;0.5388888888888889;1;drugcat_Topical_Products_for_Joint_and_Muscular_Pain
+Antiinflammatory Preparations, Non-Steroids for Topical Use;97;180;0.5388888888888889;1;drugcat_Antiinflammatory_Preparations,_Non_Steroids_for_Topical_Use
+Pharmaceutical Preparations;97;180;0.5388888888888889;3;drugcat_Pharmaceutical_Preparations
+Cytochrome P-450 CYP2C9 Inhibitors;96;181;0.5303867403314917;10;drugcat_Cytochrome_P_450_CYP2C9_Inhibitors
+Azole Antifungals;93;184;0.5054347826086957;4;drugcat_Azole_Antifungals
+Antimycotics for Systemic Use;93;184;0.5054347826086957;5;drugcat_Antimycotics_for_Systemic_Use
+Bradycardia-Causing Agents;93;184;0.5054347826086957;4;drugcat_Bradycardia_Causing_Agents
+Steroid Synthesis Inhibitors;93;184;0.5054347826086957;4;drugcat_Steroid_Synthesis_Inhibitors
+Triazole Derivatives;93;184;0.5054347826086957;4;drugcat_Triazole_Derivatives
+Cytochrome P-450 CYP3A4 Inhibitors (moderate);93;184;0.5054347826086957;6;drugcat_Cytochrome_P_450_CYP3A4_Inhibitors_moderate
+Triazole and tetrazole derivatives;93;184;0.5054347826086957;4;drugcat_Triazole_and_tetrazole_derivatives
+14-alpha Demethylase Inhibitors;93;184;0.5054347826086957;4;drugcat_14_alpha_Demethylase_Inhibitors
+Triazoles;93;184;0.5054347826086957;4;drugcat_Triazoles
+Antifungal Agents;93;184;0.5054347826086957;5;drugcat_Antifungal_Agents
+Cytochrome P-450 CYP3A5 Inhibitors;93;184;0.5054347826086957;5;drugcat_Cytochrome_P_450_CYP3A5_Inhibitors
+Muscle Relaxants, Centrally Acting Agents;92;185;0.4972972972972973;1;drugcat_Muscle_Relaxants,_Centrally_Acting_Agents
+Benzodiazepinones;92;185;0.4972972972972973;1;drugcat_Benzodiazepinones
+Benzazepines;92;185;0.4972972972972973;1;drugcat_Benzazepines
+Immunoglobulin G;91;186;0.489247311827957;1;drugcat_Immunoglobulin_G
+Serotonin Agents;91;186;0.489247311827957;6;drugcat_Serotonin_Agents
+Immunoproteins;91;186;0.489247311827957;1;drugcat_Immunoproteins
+Human Immunoglobulin G;91;186;0.489247311827957;1;drugcat_Human_Immunoglobulin_G
+Immunologic Factors;91;186;0.489247311827957;2;drugcat_Immunologic_Factors
+Immunoglobulins;91;186;0.489247311827957;1;drugcat_Immunoglobulins
+Immunoglobulin Isotypes;91;186;0.489247311827957;1;drugcat_Immunoglobulin_Isotypes
+Antidepressive Agents;91;186;0.489247311827957;6;drugcat_Antidepressive_Agents
+Antigen Neutralization;91;186;0.489247311827957;1;drugcat_Antigen_Neutralization
+Serotonin Modulators;91;186;0.489247311827957;5;drugcat_Serotonin_Modulators
+Antibodies;91;186;0.489247311827957;1;drugcat_Antibodies
+Antiarrhythmic agents;91;186;0.489247311827957;3;drugcat_Antiarrhythmic_agents
+Serotonergic Drugs Shown to Increase Risk of Serotonin Syndrome;91;186;0.489247311827957;6;drugcat_Serotonergic_Drugs_Shown_to_Increase_Risk_of_Serotonin_Syndrome
+Serum Globulins;91;186;0.489247311827957;1;drugcat_Serum_Globulins
+Globulins;91;186;0.489247311827957;1;drugcat_Globulins
+Passively Acquired Immunity;91;186;0.489247311827957;1;drugcat_Passively_Acquired_Immunity
+Serum;91;186;0.489247311827957;1;drugcat_Serum
+Lactones;89;188;0.4734042553191489;3;drugcat_Lactones
+Cytochrome P-450 CYP1A2 Inhibitors;86;191;0.450261780104712;6;drugcat_Cytochrome_P_450_CYP1A2_Inhibitors
+Methemoglobinemia Associated Agents;84;193;0.43523316062176165;5;drugcat_Methemoglobinemia_Associated_Agents
+Narcotics;82;195;0.4205128205128205;1;drugcat_Narcotics
+Moderate Risk QTc-Prolonging Agents;82;195;0.4205128205128205;4;drugcat_Moderate_Risk_QTc_Prolonging_Agents
+Opiate Agonists;82;195;0.4205128205128205;1;drugcat_Opiate_Agonists
+Opioid Agonist;82;195;0.4205128205128205;1;drugcat_Opioid_Agonist
+Opioid Anesthetics;82;195;0.4205128205128205;1;drugcat_Opioid_Anesthetics
+Opioids;82;195;0.4205128205128205;1;drugcat_Opioids
+High-risk opioids;82;195;0.4205128205128205;1;drugcat_High_risk_opioids
+Opioids, Anilidopiperidine;82;195;0.4205128205128205;1;drugcat_Opioids,_Anilidopiperidine
+Agents for Treatment of Hemorrhoids and Anal Fissures for Topical Use;82;195;0.4205128205128205;4;drugcat_Agents_for_Treatment_of_Hemorrhoids_and_Anal_Fissures_for_Topical_Use
+Otologicals;82;195;0.4205128205128205;4;drugcat_Otologicals
+Phenylpiperidine opioids;82;195;0.4205128205128205;1;drugcat_Phenylpiperidine_opioids
+Fentanyl and fentanyl analogues;82;195;0.4205128205128205;1;drugcat_Fentanyl_and_fentanyl_analogues
+Piperidines;82;195;0.4205128205128205;1;drugcat_Piperidines
+Adjuvants;82;195;0.4205128205128205;1;drugcat_Adjuvants
+Cardiac Therapy;80;197;0.40609137055837563;6;drugcat_Cardiac_Therapy
+Hormone Antagonists;80;197;0.40609137055837563;4;drugcat_Hormone_Antagonists
+P-glycoprotein inducers;78;199;0.39195979899497485;8;drugcat_P_glycoprotein_inducers
+Cytochrome P-450 CYP2D6 Inhibitors;77;200;0.385;6;drugcat_Cytochrome_P_450_CYP2D6_Inhibitors
+Cytochrome P-450 CYP2D6 Inhibitors (strength unknown);77;200;0.385;5;drugcat_Cytochrome_P_450_CYP2D6_Inhibitors_strength_unknown
+Cytochrome P-450 CYP2D6 Substrates;77;200;0.385;6;drugcat_Cytochrome_P_450_CYP2D6_Substrates
+Antipruritics, Incl. Antihistamines, Anesthetics, Etc.;77;200;0.385;3;drugcat_Antipruritics,_Incl._Antihistamines,_Anesthetics,_Etc.
+Macrolide Antimicrobial;76;201;0.3781094527363184;2;drugcat_Macrolide_Antimicrobial
+Macrolides;76;201;0.3781094527363184;3;drugcat_Macrolides
+Macrolides, Lincosamides and Streptogramins;76;201;0.3781094527363184;3;drugcat_Macrolides,_Lincosamides_and_Streptogramins
+Cytochrome P-450 CYP1A2 Substrates;75;202;0.3712871287128713;3;drugcat_Cytochrome_P_450_CYP1A2_Substrates
+Cytochrome P-450 CYP3A4 Substrates (strength unknown);75;202;0.3712871287128713;3;drugcat_Cytochrome_P_450_CYP3A4_Substrates_strength_unknown
+Anesthetics, Local;73;204;0.35784313725490197;1;drugcat_Anesthetics,_Local
+Antiarrhythmics, Class Ib;73;204;0.35784313725490197;1;drugcat_Antiarrhythmics,_Class_Ib
+Anilides;73;204;0.35784313725490197;1;drugcat_Anilides
+Local Anesthetics (Amide);73;204;0.35784313725490197;1;drugcat_Local_Anesthetics_Amide
+Local Anesthesia;73;204;0.35784313725490197;1;drugcat_Local_Anesthesia
+Analgesics and Anesthetics;73;204;0.35784313725490197;1;drugcat_Analgesics_and_Anesthetics
+Voltage-Gated Sodium Channel Blockers;73;204;0.35784313725490197;1;drugcat_Voltage_Gated_Sodium_Channel_Blockers
+Cytochrome P-450 CYP3A5 Inhibitors (weak);73;204;0.35784313725490197;3;drugcat_Cytochrome_P_450_CYP3A5_Inhibitors_weak
+Antiarrhythmics, Class I;73;204;0.35784313725490197;1;drugcat_Antiarrhythmics,_Class_I
+Sodium Channel Blockers;73;204;0.35784313725490197;2;drugcat_Sodium_Channel_Blockers
+Cytochrome P-450 CYP1A2 Inhibitors (moderate);73;204;0.35784313725490197;2;drugcat_Cytochrome_P_450_CYP1A2_Inhibitors_moderate
+Antipruritics and Local Anesthetics;73;204;0.35784313725490197;1;drugcat_Antipruritics_and_Local_Anesthetics
+Cytochrome P-450 CYP2A6 Substrates;73;204;0.35784313725490197;1;drugcat_Cytochrome_P_450_CYP2A6_Substrates
+Antifungals for Topical Use;73;204;0.35784313725490197;3;drugcat_Antifungals_for_Topical_Use
+Imidazole and Triazole Derivatives;73;204;0.35784313725490197;3;drugcat_Imidazole_and_Triazole_Derivatives
+Antifungals for Dermatological Use;73;204;0.35784313725490197;3;drugcat_Antifungals_for_Dermatological_Use
+Anesthetics for Topical Use;73;204;0.35784313725490197;1;drugcat_Anesthetics_for_Topical_Use
+Cytochrome P-450 CYP2C9 Inhibitors (strong);73;204;0.35784313725490197;3;drugcat_Cytochrome_P_450_CYP2C9_Inhibitors_strong
+Polyketides;70;207;0.33816425120772947;1;drugcat_Polyketides
+Agents Causing Muscle Toxicity;69;208;0.3317307692307692;9;drugcat_Agents_Causing_Muscle_Toxicity
+Metal cations;64;213;0.3004694835680751;2;drugcat_Metal_cations
+Metal divalent cations;64;213;0.3004694835680751;2;drugcat_Metal_divalent_cations
+Beta-Lactam Antibacterials;64;213;0.3004694835680751;8;drugcat_Beta_Lactam_Antibacterials
+Acids, Acyclic;63;214;0.29439252336448596;4;drugcat_Acids,_Acyclic
+Peptides;62;215;0.28837209302325584;3;drugcat_Peptides
+Diagnostic Agents;61;216;0.2824074074074074;3;drugcat_Diagnostic_Agents
+Drugs for Constipation;61;216;0.2824074074074074;3;drugcat_Drugs_for_Constipation
+Laxatives;61;216;0.2824074074074074;3;drugcat_Laxatives
+Osmotic Laxatives;61;216;0.2824074074074074;3;drugcat_Osmotic_Laxatives
+Drugs that are Mainly Renally Excreted with a Narrow Therapeutic Index;60;217;0.2764976958525346;1;drugcat_Drugs_that_are_Mainly_Renally_Excreted_with_a_Narrow_Therapeutic_Index
+Glycopeptides;60;217;0.2764976958525346;1;drugcat_Glycopeptides
+Intestinal Antiinfectives;60;217;0.2764976958525346;1;drugcat_Intestinal_Antiinfectives
+Glycoconjugates;60;217;0.2764976958525346;1;drugcat_Glycoconjugates
+Glycopeptide Antibacterials;60;217;0.2764976958525346;1;drugcat_Glycopeptide_Antibacterials
+Anticholinergic Agents;57;220;0.2590909090909091;5;drugcat_Anticholinergic_Agents
+Calcium Salts;55;222;0.24774774774774774;5;drugcat_Calcium_Salts
+Antiviral Agents;52;225;0.2311111111111111;2;drugcat_Antiviral_Agents
+Hydroxy Acids;52;225;0.2311111111111111;1;drugcat_Hydroxy_Acids
+Direct Acting Antivirals;52;225;0.2311111111111111;2;drugcat_Direct_Acting_Antivirals
+Gluconates;52;225;0.2311111111111111;1;drugcat_Gluconates
+Sugar Acids;52;225;0.2311111111111111;1;drugcat_Sugar_Acids
+Antivirals for Systemic Use;52;225;0.2311111111111111;2;drugcat_Antivirals_for_Systemic_Use
+Neuromuscular Agents;50;227;0.22026431718061673;1;drugcat_Neuromuscular_Agents
+Neuromuscular-Blocking Agents (Nondepolarizing);50;227;0.22026431718061673;1;drugcat_Neuromuscular_Blocking_Agents_Nondepolarizing
+Nicotinic Antagonists;50;227;0.22026431718061673;2;drugcat_Nicotinic_Antagonists
+Neuromuscular Nondepolarizing Blockade;50;227;0.22026431718061673;1;drugcat_Neuromuscular_Nondepolarizing_Blockade
+Neuromuscular Blocking Agents;50;227;0.22026431718061673;1;drugcat_Neuromuscular_Blocking_Agents
+Androstanols;50;227;0.22026431718061673;1;drugcat_Androstanols
+Androstanes;50;227;0.22026431718061673;1;drugcat_Androstanes
+Musculo-Skeletal System;50;227;0.22026431718061673;2;drugcat_Musculo_Skeletal_System
+Muscle Relaxants, Peripherally Acting Agents;50;227;0.22026431718061673;1;drugcat_Muscle_Relaxants,_Peripherally_Acting_Agents
+Cholinergic Agents;50;227;0.22026431718061673;1;drugcat_Cholinergic_Agents
+Increased Diuresis;49;228;0.2149122807017544;2;drugcat_Increased_Diuresis
+Protease Inhibitors;49;228;0.2149122807017544;2;drugcat_Protease_Inhibitors
+Vasodilating Agents;48;229;0.2096069868995633;7;drugcat_Vasodilating_Agents
+OAT1/SLC22A6 Substrates;48;229;0.2096069868995633;5;drugcat_OAT1/SLC22A6_Substrates
+Cytochrome P-450 CYP3A4 Inhibitors (weak);47;230;0.20434782608695654;3;drugcat_Cytochrome_P_450_CYP3A4_Inhibitors_weak
+Acetamides;46;231;0.19913419913419914;4;drugcat_Acetamides
+Acetates;46;231;0.19913419913419914;3;drugcat_Acetates
+Alcohols;46;231;0.19913419913419914;4;drugcat_Alcohols
+Sulfur Acids;45;232;0.1939655172413793;2;drugcat_Sulfur_Acids
+Cytochrome P-450 CYP3A7 Inhibitors;45;232;0.1939655172413793;2;drugcat_Cytochrome_P_450_CYP3A7_Inhibitors
+Cytochrome P-450 CYP2C19 Inhibitors (weak);44;233;0.1888412017167382;3;drugcat_Cytochrome_P_450_CYP2C19_Inhibitors_weak
+Cytochrome P-450 CYP2C9 Inhibitors (weak);44;233;0.1888412017167382;2;drugcat_Cytochrome_P_450_CYP2C9_Inhibitors_weak
+Amino Acids;44;233;0.1888412017167382;3;drugcat_Amino_Acids
+Cytochrome P-450 CYP2B6 Inhibitors (moderate);44;233;0.1888412017167382;1;drugcat_Cytochrome_P_450_CYP2B6_Inhibitors_moderate
+Cytochrome P-450 CYP2B6 Inhibitors;44;233;0.1888412017167382;1;drugcat_Cytochrome_P_450_CYP2B6_Inhibitors
+Cytochrome P-450 CYP3A5 Inhibitors (strong);44;233;0.1888412017167382;1;drugcat_Cytochrome_P_450_CYP3A5_Inhibitors_strong
+Cytochrome P-450 CYP3A4 Inhibitors (strong);44;233;0.1888412017167382;2;drugcat_Cytochrome_P_450_CYP3A4_Inhibitors_strong
+Cytochrome P-450 CYP3A7 Inhibitors (strong);44;233;0.1888412017167382;1;drugcat_Cytochrome_P_450_CYP3A7_Inhibitors_strong
+Chemically-Induced Disorders;44;233;0.1888412017167382;2;drugcat_Chemically_Induced_Disorders
+Thiazines;43;234;0.18376068376068377;3;drugcat_Thiazines
+Third-Generation Cephalosporins;43;234;0.18376068376068377;3;drugcat_Third_Generation_Cephalosporins
+Cephacetrile;43;234;0.18376068376068377;3;drugcat_Cephacetrile
+Cephalosporins;43;234;0.18376068376068377;3;drugcat_Cephalosporins
+Neurotoxic agents;41;236;0.17372881355932204;5;drugcat_Neurotoxic_agents
+Sugar Alcohols;41;236;0.17372881355932204;2;drugcat_Sugar_Alcohols
+Antidotes;41;236;0.17372881355932204;3;drugcat_Antidotes
+BCRP/ABCG2 Inhibitors;41;236;0.17372881355932204;4;drugcat_BCRP/ABCG2_Inhibitors
+OATP1B1/SLCO1B1 Inhibitors;40;237;0.16877637130801687;5;drugcat_OATP1B1/SLCO1B1_Inhibitors
+Sulfates;39;238;0.1638655462184874;1;drugcat_Sulfates
+Calcium Channel Blockers;39;238;0.1638655462184874;2;drugcat_Calcium_Channel_Blockers
+Reproductive Control Agents;39;238;0.1638655462184874;1;drugcat_Reproductive_Control_Agents
+Sulfuric Acids;39;238;0.1638655462184874;1;drugcat_Sulfuric_Acids
+Laxatives, magnesium containing;39;238;0.1638655462184874;1;drugcat_Laxatives,_magnesium_containing
+Tocolytic Agents;39;238;0.1638655462184874;1;drugcat_Tocolytic_Agents
+Magnesium Compounds;39;238;0.1638655462184874;1;drugcat_Magnesium_Compounds
+Magnesium Salts;39;238;0.1638655462184874;1;drugcat_Magnesium_Salts
+Miscellaneous Anticonvulsants;39;238;0.1638655462184874;2;drugcat_Miscellaneous_Anticonvulsants
+Tests for Bile Duct Patency;39;238;0.1638655462184874;1;drugcat_Tests_for_Bile_Duct_Patency
+Calcium-Regulating Hormones and Agents;39;238;0.1638655462184874;2;drugcat_Calcium_Regulating_Hormones_and_Agents
+Phenols;38;239;0.1589958158995816;2;drugcat_Phenols
+Penicillins With Extended Spectrum;37;240;0.15416666666666667;4;drugcat_Penicillins_With_Extended_Spectrum
+Extended-spectrum Penicillins;37;240;0.15416666666666667;2;drugcat_Extended_spectrum_Penicillins
+Gastrointestinal Agents;37;240;0.15416666666666667;7;drugcat_Gastrointestinal_Agents
+Aza Compounds;37;240;0.15416666666666667;2;drugcat_Aza_Compounds
+Azabicyclo Compounds;37;240;0.15416666666666667;2;drugcat_Azabicyclo_Compounds
+beta-Lactamase Inhibitors;37;240;0.15416666666666667;4;drugcat_beta_Lactamase_Inhibitors
+Penicillins;37;240;0.15416666666666667;4;drugcat_Penicillins
+Penicillin G;37;240;0.15416666666666667;4;drugcat_Penicillin_G
+Serine Endopeptidases;36;241;0.14937759336099585;1;drugcat_Serine_Endopeptidases
+Peptide Hydrolases;36;241;0.14937759336099585;1;drugcat_Peptide_Hydrolases
+Fibrinolytic Agents;36;241;0.14937759336099585;1;drugcat_Fibrinolytic_Agents
+Endopeptidases;36;241;0.14937759336099585;1;drugcat_Endopeptidases
+Biological Factors;36;241;0.14937759336099585;3;drugcat_Biological_Factors
+Enzymes;36;241;0.14937759336099585;1;drugcat_Enzymes
+Enzymes and Coenzymes;36;241;0.14937759336099585;1;drugcat_Enzymes_and_Coenzymes
+Intestinal Adsorbents;36;241;0.14937759336099585;1;drugcat_Intestinal_Adsorbents
+Serine Proteases;36;241;0.14937759336099585;1;drugcat_Serine_Proteases
+Silicon Compounds;36;241;0.14937759336099585;1;drugcat_Silicon_Compounds
+Aluminium Compounds;36;241;0.14937759336099585;1;drugcat_Aluminium_Compounds
+Increased Thrombolysis;36;241;0.14937759336099585;1;drugcat_Increased_Thrombolysis
+Silicates;36;241;0.14937759336099585;1;drugcat_Silicates
+Aluminum Silicates;36;241;0.14937759336099585;1;drugcat_Aluminum_Silicates
+Urokinase-Type Plasminogen Activator, antagonists & inhibitors;36;241;0.14937759336099585;1;drugcat_Urokinase_Type_Plasminogen_Activator,_antagonists_&_inhibitors
+Oxides;36;241;0.14937759336099585;2;drugcat_Oxides
+Plasminogen Activators;36;241;0.14937759336099585;1;drugcat_Plasminogen_Activators
+Hydrolases;36;241;0.14937759336099585;1;drugcat_Hydrolases
+Gynecological Antiinfectives and Antiseptics;35;242;0.1446280991735537;3;drugcat_Gynecological_Antiinfectives_and_Antiseptics
+Renal Dehydropeptidase Inhibitor;35;242;0.1446280991735537;1;drugcat_Renal_Dehydropeptidase_Inhibitor
+Dipeptidase Inhibitors;35;242;0.1446280991735537;1;drugcat_Dipeptidase_Inhibitors
+Cycloparaffins;35;242;0.1446280991735537;1;drugcat_Cycloparaffins
+Genito Urinary System and Sex Hormones;35;242;0.1446280991735537;5;drugcat_Genito_Urinary_System_and_Sex_Hormones
+Cyclopropanes;35;242;0.1446280991735537;1;drugcat_Cyclopropanes
+Cytochrome P-450 CYP1A2 Inhibitors (strength unknown);35;242;0.1446280991735537;5;drugcat_Cytochrome_P_450_CYP1A2_Inhibitors_strength_unknown
+Neuraminidase Inhibitors;35;242;0.1446280991735537;1;drugcat_Neuraminidase_Inhibitors
+Expectorants;33;244;0.13524590163934427;1;drugcat_Expectorants
+Cough and Cold Preparations;33;244;0.13524590163934427;1;drugcat_Cough_and_Cold_Preparations
+Anti-Acne Preparations;33;244;0.13524590163934427;4;drugcat_Anti_Acne_Preparations
+Diuretics, Osmotic;33;244;0.13524590163934427;1;drugcat_Diuretics,_Osmotic
+Diet, Food, and Nutrition;33;244;0.13524590163934427;1;drugcat_Diet,_Food,_and_Nutrition
+Anti-Acne Preparations for Topical Use;33;244;0.13524590163934427;4;drugcat_Anti_Acne_Preparations_for_Topical_Use
+i.v. Solutions;33;244;0.13524590163934427;1;drugcat_i.v._Solutions
+Solutions Producing Osmotic Diuresis;33;244;0.13524590163934427;1;drugcat_Solutions_Producing_Osmotic_Diuresis
+Osmotic Activity;33;244;0.13524590163934427;3;drugcat_Osmotic_Activity
+Sweetening Agents;33;244;0.13524590163934427;1;drugcat_Sweetening_Agents
+Food Ingredients;33;244;0.13524590163934427;1;drugcat_Food_Ingredients
+Food Additives;33;244;0.13524590163934427;1;drugcat_Food_Additives
+Physiological Phenomena;33;244;0.13524590163934427;1;drugcat_Physiological_Phenomena
+Food;33;244;0.13524590163934427;1;drugcat_Food
+OATP1B3 inhibitors;33;244;0.13524590163934427;3;drugcat_OATP1B3_inhibitors
+Kidney Function;33;244;0.13524590163934427;1;drugcat_Kidney_Function
+Flavoring Agents;33;244;0.13524590163934427;1;drugcat_Flavoring_Agents
+OCT1 substrates;32;245;0.1306122448979592;3;drugcat_OCT1_substrates
+Cytochrome P-450 CYP2C9 Inhibitors (strength unknown);32;245;0.1306122448979592;4;drugcat_Cytochrome_P_450_CYP2C9_Inhibitors_strength_unknown
+BSEP/ABCB11 Inhibitors;32;245;0.1306122448979592;5;drugcat_BSEP/ABCB11_Inhibitors
+UGT1A6 substrate;31;246;0.12601626016260162;1;drugcat_UGT1A6_substrate
+Miscellaneous General Anesthetics;31;246;0.12601626016260162;1;drugcat_Miscellaneous_General_Anesthetics
+UGT1A1 Inhibitors;31;246;0.12601626016260162;1;drugcat_UGT1A1_Inhibitors
+Antiemetics;30;247;0.1214574898785425;3;drugcat_Antiemetics
+Hemostatics;29;248;0.11693548387096774;2;drugcat_Hemostatics
+Systemic Hormonal Preparations, Excl. Sex Hormones and Insulins;29;248;0.11693548387096774;4;drugcat_Systemic_Hormonal_Preparations,_Excl._Sex_Hormones_and_Insulins
+Antifibrinolytic Agents;29;248;0.11693548387096774;2;drugcat_Antifibrinolytic_Agents
+Protein Synthesis Inhibitors;28;249;0.11244979919678715;5;drugcat_Protein_Synthesis_Inhibitors
+MATE 1 Substrates;27;250;0.108;2;drugcat_MATE_1_Substrates
+OCT1 inhibitors;27;250;0.108;2;drugcat_OCT1_inhibitors
+MATE substrates;27;250;0.108;2;drugcat_MATE_substrates
+Corticosteroids for Systemic Use, Plain;24;253;0.09486166007905138;2;drugcat_Corticosteroids_for_Systemic_Use,_Plain
+Cytochrome P-450 CYP2E1 Inducers;24;253;0.09486166007905138;3;drugcat_Cytochrome_P_450_CYP2E1_Inducers
+Cytochrome P-450 CYP3A7 Inducers (strength unknown);24;253;0.09486166007905138;3;drugcat_Cytochrome_P_450_CYP3A7_Inducers_strength_unknown
+Stomatological Preparations;24;253;0.09486166007905138;3;drugcat_Stomatological_Preparations
+Steroids, Fluorinated;24;253;0.09486166007905138;2;drugcat_Steroids,_Fluorinated
+Cytochrome P-450 CYP3A7 Inducers;24;253;0.09486166007905138;3;drugcat_Cytochrome_P_450_CYP3A7_Inducers
+Inducers of Drug Clearance;24;253;0.09486166007905138;2;drugcat_Inducers_of_Drug_Clearance
+Cytochrome P-450 CYP3A Inducers (strong);24;253;0.09486166007905138;3;drugcat_Cytochrome_P_450_CYP3A_Inducers_strong
+Corticosteroids, Moderately Potent (Group II);24;253;0.09486166007905138;2;drugcat_Corticosteroids,_Moderately_Potent_Group_II
+Cytochrome P-450 CYP3A4 Inducers (strong);24;253;0.09486166007905138;3;drugcat_Cytochrome_P_450_CYP3A4_Inducers_strong
+Cytochrome P-450 CYP3A4 Inducers (moderate);24;253;0.09486166007905138;2;drugcat_Cytochrome_P_450_CYP3A4_Inducers_moderate
+Cardiac Stimulants Excl. Cardiac Glycosides;24;253;0.09486166007905138;2;drugcat_Cardiac_Stimulants_Excl._Cardiac_Glycosides
+Ophthalmological and Otological Preparations;24;253;0.09486166007905138;2;drugcat_Ophthalmological_and_Otological_Preparations
+Cytochrome P-450 CYP2E1 Inducers (strength unknown);24;253;0.09486166007905138;3;drugcat_Cytochrome_P_450_CYP2E1_Inducers_strength_unknown
+Corticosteroids for Local Oral Treatment;24;253;0.09486166007905138;2;drugcat_Corticosteroids_for_Local_Oral_Treatment
+BSEP/ABCB11 inducers;24;253;0.09486166007905138;4;drugcat_BSEP/ABCB11_inducers
+Nucleoside Analog Antiviral;23;254;0.09055118110236221;1;drugcat_Nucleoside_Analog_Antiviral
+MATE 2 Substrates;23;254;0.09055118110236221;1;drugcat_MATE_2_Substrates
+Nucleic Acid Synthesis Inhibitors;23;254;0.09055118110236221;2;drugcat_Nucleic_Acid_Synthesis_Inhibitors
+Cytomegalovirus Nucleoside Analog DNA Polymerase Inhibitor;23;254;0.09055118110236221;1;drugcat_Cytomegalovirus_Nucleoside_Analog_DNA_Polymerase_Inhibitor
+Purines;23;254;0.09055118110236221;3;drugcat_Purines
+Cytochrome P-450 CYP2C8 Inhibitors (moderate);23;254;0.09055118110236221;2;drugcat_Cytochrome_P_450_CYP2C8_Inhibitors_moderate
+Cytochrome P-450 CYP2C8 Inhibitors;23;254;0.09055118110236221;3;drugcat_Cytochrome_P_450_CYP2C8_Inhibitors
+Ganciclovir and prodrug;23;254;0.09055118110236221;1;drugcat_Ganciclovir_and_prodrug
+Purinones;23;254;0.09055118110236221;2;drugcat_Purinones
+Nucleosides and Nucleotides Excl. Reverse Transcriptase Inhibitors;23;254;0.09055118110236221;1;drugcat_Nucleosides_and_Nucleotides_Excl._Reverse_Transcriptase_Inhibitors
+Nucleosides and Nucleotides;23;254;0.09055118110236221;1;drugcat_Nucleosides_and_Nucleotides
+Mineralocorticoid (Aldosterone) Receptor Antagonists;21;256;0.08203125;1;drugcat_Mineralocorticoid_Aldosterone_Receptor_Antagonists
+Mineralocorticoid Receptor Antagonists;21;256;0.08203125;1;drugcat_Mineralocorticoid_Receptor_Antagonists
+Potassium-Sparing Diuretics;21;256;0.08203125;1;drugcat_Potassium_Sparing_Diuretics
+Amino Acids, Cyclic;21;256;0.08203125;2;drugcat_Amino_Acids,_Cyclic
+Agents producing tachycardia;20;257;0.07782101167315175;5;drugcat_Agents_producing_tachycardia
+Oxazolidinones;20;257;0.07782101167315175;2;drugcat_Oxazolidinones
+Monoamine Oxidase A Inhibitors  for interaction with Monoamine Oxidase A substrates;20;257;0.07782101167315175;2;drugcat_Monoamine_Oxidase_A_Inhibitors__for_interaction_with_Monoamine_Oxidase_A_substrates
+Monoamine Oxidase Inhibitors;20;257;0.07782101167315175;2;drugcat_Monoamine_Oxidase_Inhibitors
+Myelosuppressive Agents;20;257;0.07782101167315175;3;drugcat_Myelosuppressive_Agents
+Oxazolidinone Antibacterial;20;257;0.07782101167315175;2;drugcat_Oxazolidinone_Antibacterial
+Steroids, Chlorinated;19;258;0.07364341085271318;1;drugcat_Steroids,_Chlorinated
+Sodium Chloride Symporter Inhibitors;19;258;0.07364341085271318;1;drugcat_Sodium_Chloride_Symporter_Inhibitors
+Benzothiadiazines;19;258;0.07364341085271318;1;drugcat_Benzothiadiazines
+Low-Ceiling Diuretics and Potassium-Sparing Agents;19;258;0.07364341085271318;1;drugcat_Low_Ceiling_Diuretics_and_Potassium_Sparing_Agents
+Thiazides;19;258;0.07364341085271318;1;drugcat_Thiazides
+Thyroxine-binding globulin inhibitors;19;258;0.07364341085271318;1;drugcat_Thyroxine_binding_globulin_inhibitors
+Sulfonamides and trimethoprim;18;259;0.0694980694980695;1;drugcat_Sulfonamides_and_trimethoprim
+Blood Glucose Lowering Agents;18;259;0.0694980694980695;1;drugcat_Blood_Glucose_Lowering_Agents
+Antimycobacterials;18;259;0.0694980694980695;1;drugcat_Antimycobacterials
+OATP1B1/SLCO1B1 Substrates;18;259;0.0694980694980695;2;drugcat_OATP1B1/SLCO1B1_Substrates
+OATP1B3 substrates;18;259;0.0694980694980695;2;drugcat_OATP1B3_substrates
+Antibiotics for Pneumocystis Pneumonia;18;259;0.0694980694980695;2;drugcat_Antibiotics_for_Pneumocystis_Pneumonia
+Intermediate-Acting Antibacterial Sulfonamides;18;259;0.0694980694980695;1;drugcat_Intermediate_Acting_Antibacterial_Sulfonamides
+Sulfonamide Antibacterial;18;259;0.0694980694980695;1;drugcat_Sulfonamide_Antibacterial
+Hypoglycemia-Associated Agents;18;259;0.0694980694980695;1;drugcat_Hypoglycemia_Associated_Agents
+Drugs for Treatment of Tuberculosis;18;259;0.0694980694980695;1;drugcat_Drugs_for_Treatment_of_Tuberculosis
+Angiotensin-Converting Enzyme Inhibitors;16;261;0.06130268199233716;1;drugcat_Angiotensin_Converting_Enzyme_Inhibitors
+Agents Acting on the Renin-Angiotensin System;16;261;0.06130268199233716;1;drugcat_Agents_Acting_on_the_Renin_Angiotensin_System
+ACE Inhibitors and Diuretics;16;261;0.06130268199233716;1;drugcat_ACE_Inhibitors_and_Diuretics
+Imino Acids;16;261;0.06130268199233716;1;drugcat_Imino_Acids
+Phosphodiesterase Inhibitors;15;262;0.05725190839694656;3;drugcat_Phosphodiesterase_Inhibitors
+Aminopyridines;15;262;0.05725190839694656;1;drugcat_Aminopyridines
+Cardiotonic Agents;15;262;0.05725190839694656;1;drugcat_Cardiotonic_Agents
+OCT2 Inhibitors;15;262;0.05725190839694656;3;drugcat_OCT2_Inhibitors
+Pyridines;15;262;0.05725190839694656;1;drugcat_Pyridines
+Phosphodiesterase 3 Inhibitors;15;262;0.05725190839694656;1;drugcat_Phosphodiesterase_3_Inhibitors
+Phosphate salts;12;265;0.045283018867924525;1;drugcat_Phosphate_salts
+Sugar Phosphates;12;265;0.045283018867924525;1;drugcat_Sugar_Phosphates
+Phospholipids;12;265;0.045283018867924525;1;drugcat_Phospholipids
+Triose Sugar Alcohols;12;265;0.045283018867924525;1;drugcat_Triose_Sugar_Alcohols
+Erythromycin and similars;11;266;0.041353383458646614;1;drugcat_Erythromycin_and_similars
+Phenothiazines;11;266;0.041353383458646614;3;drugcat_Phenothiazines
+Dopamine Antagonists;11;266;0.041353383458646614;3;drugcat_Dopamine_Antagonists
+Phenothiazine Derivatives;11;266;0.041353383458646614;2;drugcat_Phenothiazine_Derivatives
+Antihistamines for Systemic Use;11;266;0.041353383458646614;2;drugcat_Antihistamines_for_Systemic_Use
+Acid Reducers;11;266;0.041353383458646614;2;drugcat_Acid_Reducers
+Antiinfectives for Treatment of Acne;11;266;0.041353383458646614;2;drugcat_Antiinfectives_for_Treatment_of_Acne
+Histamine Agents;11;266;0.041353383458646614;2;drugcat_Histamine_Agents
+Muscarinic Antagonists;11;266;0.041353383458646614;3;drugcat_Muscarinic_Antagonists
+Miscellaneous Anxiolytics Sedatives and Hypnotics;11;266;0.041353383458646614;4;drugcat_Miscellaneous_Anxiolytics_Sedatives_and_Hypnotics
+Antihistamines for Topical Use;11;266;0.041353383458646614;2;drugcat_Antihistamines_for_Topical_Use
+Erythromycins;11;266;0.041353383458646614;1;drugcat_Erythromycins
+Histamine H1 Antagonists;11;266;0.041353383458646614;3;drugcat_Histamine_H1_Antagonists
+Dopamine D2 Receptor Antagonists;11;266;0.041353383458646614;3;drugcat_Dopamine_D2_Receptor_Antagonists
+Histamine H2 Antagonists;11;266;0.041353383458646614;2;drugcat_Histamine_H2_Antagonists
+Propylamines;11;266;0.041353383458646614;2;drugcat_Propylamines
+Cytochrome P-450 CYP3A5 Inhibitors (moderate);11;266;0.041353383458646614;1;drugcat_Cytochrome_P_450_CYP3A5_Inhibitors_moderate
+Histamine Antagonists;11;266;0.041353383458646614;3;drugcat_Histamine_Antagonists
+Cytochrome P-450 CYP3A7 Inhibitors (moderate);11;266;0.041353383458646614;1;drugcat_Cytochrome_P_450_CYP3A7_Inhibitors_moderate
+Antipsychotic Agents;11;266;0.041353383458646614;3;drugcat_Antipsychotic_Agents
+Antipruritics;11;266;0.041353383458646614;2;drugcat_Antipruritics
+Anti-Allergic Agents;11;266;0.041353383458646614;2;drugcat_Anti_Allergic_Agents
+Catechols;10;267;0.03745318352059925;1;drugcat_Catechols
+Catecholamines;10;267;0.03745318352059925;1;drugcat_Catecholamines
+OCT2 Substrates;10;267;0.03745318352059925;1;drugcat_OCT2_Substrates
+Adrenergic and Dopaminergic Agents;10;267;0.03745318352059925;1;drugcat_Adrenergic_and_Dopaminergic_Agents
+Adrenergic alpha-2 Receptor Agonists;10;267;0.03745318352059925;2;drugcat_Adrenergic_alpha_2_Receptor_Agonists
+Adrenergic alpha-Agonists;10;267;0.03745318352059925;2;drugcat_Adrenergic_alpha_Agonists
+Norepinephrine, antagonists & inhibitors;10;267;0.03745318352059925;1;drugcat_Norepinephrine,_antagonists_&_inhibitors
+Adrenergic Agents;10;267;0.03745318352059925;2;drugcat_Adrenergic_Agents
+Adrenergic Agonists;10;267;0.03745318352059925;2;drugcat_Adrenergic_Agonists
+Alpha-and Beta-adrenergic Agonists;10;267;0.03745318352059925;1;drugcat_Alpha_and_Beta_adrenergic_Agonists
+Vasoconstrictor Agents;10;267;0.03745318352059925;1;drugcat_Vasoconstrictor_Agents
+Epinephrine and similars;10;267;0.03745318352059925;1;drugcat_Epinephrine_and_similars
+COMT Substrates;10;267;0.03745318352059925;1;drugcat_COMT_Substrates
+Amino Alcohols;10;267;0.03745318352059925;1;drugcat_Amino_Alcohols
+Biogenic Amines;10;267;0.03745318352059925;1;drugcat_Biogenic_Amines
+Adrenergic beta-1 Receptor Agonists;10;267;0.03745318352059925;1;drugcat_Adrenergic_beta_1_Receptor_Agonists
+Ethanolamines;10;267;0.03745318352059925;1;drugcat_Ethanolamines
+Sympathomimetics;10;267;0.03745318352059925;1;drugcat_Sympathomimetics
+Biogenic Monoamines;10;267;0.03745318352059925;1;drugcat_Biogenic_Monoamines
+Adrenergic alpha-1 Receptor Agonists;10;267;0.03745318352059925;1;drugcat_Adrenergic_alpha_1_Receptor_Agonists
+Adrenergic beta-Agonists;10;267;0.03745318352059925;1;drugcat_Adrenergic_beta_Agonists
+Adrenergic beta-3 Receptor Agonists;10;267;0.03745318352059925;1;drugcat_Adrenergic_beta_3_Receptor_Agonists
+Adrenergic beta-2 Receptor Agonists;10;267;0.03745318352059925;1;drugcat_Adrenergic_beta_2_Receptor_Agonists
+Echinocandin Antifungal;8;269;0.02973977695167286;1;drugcat_Echinocandin_Antifungal
+Arylsulfonic Acids;8;269;0.02973977695167286;1;drugcat_Arylsulfonic_Acids
+Arylsulfonates;8;269;0.02973977695167286;1;drugcat_Arylsulfonates
+Cholinesterase Inhibitors;8;269;0.02973977695167286;1;drugcat_Cholinesterase_Inhibitors
+Fatty Acids;8;269;0.02973977695167286;2;drugcat_Fatty_Acids
+Antipsychotic Agents (First Generation [Typical]);8;269;0.02973977695167286;1;drugcat_Antipsychotic_Agents_First_Generation_[Typical]
+Chelating Agents;8;269;0.02973977695167286;1;drugcat_Chelating_Agents
+Echinocandins;8;269;0.02973977695167286;1;drugcat_Echinocandins
+Fatty Acids, Volatile;8;269;0.02973977695167286;1;drugcat_Fatty_Acids,_Volatile
+Phosphate-removing Agents;8;269;0.02973977695167286;1;drugcat_Phosphate_removing_Agents
+Phosphate Binder;8;269;0.02973977695167286;2;drugcat_Phosphate_Binder
+Peptides, Cyclic;8;269;0.02973977695167286;1;drugcat_Peptides,_Cyclic
+Phenothiazines With Aliphatic Side-Chain;8;269;0.02973977695167286;1;drugcat_Phenothiazines_With_Aliphatic_Side_Chain
+Adrenergic Antagonists;8;269;0.02973977695167286;1;drugcat_Adrenergic_Antagonists
+Drugs for Treatment of Hyperkalemia and Hyperphosphatemia;8;269;0.02973977695167286;1;drugcat_Drugs_for_Treatment_of_Hyperkalemia_and_Hyperphosphatemia
+Adrenergic alpha-1 Receptor Antagonists;8;269;0.02973977695167286;1;drugcat_Adrenergic_alpha_1_Receptor_Antagonists
+Adrenergic alpha-Antagonists;8;269;0.02973977695167286;1;drugcat_Adrenergic_alpha_Antagonists
+Serotonin 5-HT2 Receptor Antagonists;8;269;0.02973977695167286;1;drugcat_Serotonin_5_HT2_Receptor_Antagonists
+Dopamine Agents;8;269;0.02973977695167286;1;drugcat_Dopamine_Agents
+Sequestering Agents;8;269;0.02973977695167286;1;drugcat_Sequestering_Agents
+Lipopeptides;8;269;0.02973977695167286;1;drugcat_Lipopeptides
+Serotonin Receptor Antagonists;8;269;0.02973977695167286;1;drugcat_Serotonin_Receptor_Antagonists
+Sulfonic Acids;8;269;0.02973977695167286;1;drugcat_Sulfonic_Acids
+Serotonin 5-HT1A Receptor Antagonists;8;269;0.02973977695167286;1;drugcat_Serotonin_5_HT1A_Receptor_Antagonists
+Serotonin 5-HT2A Receptor Antagonists;8;269;0.02973977695167286;1;drugcat_Serotonin_5_HT2A_Receptor_Antagonists
+Cytochrome P-450 CYP2D6 Inhibitors (moderate);8;269;0.02973977695167286;1;drugcat_Cytochrome_P_450_CYP2D6_Inhibitors_moderate
+Serotonin 5-HT1 Receptor Antagonists;8;269;0.02973977695167286;1;drugcat_Serotonin_5_HT1_Receptor_Antagonists
+Agents used to treat hypothyroidism;6;271;0.02214022140221402;1;drugcat_Agents_used_to_treat_hypothyroidism
+Organic Anion Transporting Polypeptide 2B1 Inhibitors;6;271;0.02214022140221402;2;drugcat_Organic_Anion_Transporting_Polypeptide_2B1_Inhibitors
+Thyroid Products;6;271;0.02214022140221402;1;drugcat_Thyroid_Products
+Amino Acids, Aromatic;6;271;0.02214022140221402;1;drugcat_Amino_Acids,_Aromatic
+UGT1A1 Substrates with a Narrow Therapeutic Index;6;271;0.02214022140221402;1;drugcat_UGT1A1_Substrates_with_a_Narrow_Therapeutic_Index
+Topoisomerase II Inhibitors;6;271;0.02214022140221402;1;drugcat_Topoisomerase_II_Inhibitors
+Anti-Infective Agents, Urinary;6;271;0.02214022140221402;1;drugcat_Anti_Infective_Agents,_Urinary
+Quinolones;6;271;0.02214022140221402;1;drugcat_Quinolones
+MATE 1 Inhibitors;6;271;0.02214022140221402;1;drugcat_MATE_1_Inhibitors
+Renal Agents;6;271;0.02214022140221402;1;drugcat_Renal_Agents
+Fluoroquinolones;6;271;0.02214022140221402;1;drugcat_Fluoroquinolones
+Quinolines;6;271;0.02214022140221402;1;drugcat_Quinolines
+Quinolone Antimicrobial;6;271;0.02214022140221402;1;drugcat_Quinolone_Antimicrobial
+Topoisomerase Inhibitors;6;271;0.02214022140221402;1;drugcat_Topoisomerase_Inhibitors
+MATE 2 Inhibitors;6;271;0.02214022140221402;1;drugcat_MATE_2_Inhibitors
+MATE inhibitors;6;271;0.02214022140221402;1;drugcat_MATE_inhibitors
+Aminopenicillins;0;277;0.0;2;drugcat_Aminopenicillins
+Ammonia Detoxicants;0;277;0.0;1;drugcat_Ammonia_Detoxicants
+Prostaglandin Receptor Agonists;0;277;0.0;1;drugcat_Prostaglandin_Receptor_Agonists
+Antimetabolites;0;277;0.0;1;drugcat_Antimetabolites
+Prostaglandins, Synthetic;0;277;0.0;1;drugcat_Prostaglandins,_Synthetic
+Antineoplastic and Immunomodulating Agents;0;277;0.0;1;drugcat_Antineoplastic_and_Immunomodulating_Agents
+Prostaglandins E;0;277;0.0;1;drugcat_Prostaglandins_E
+Prostaglandins;0;277;0.0;1;drugcat_Prostaglandins
+Antiarrhythmics, Class III;0;277;0.0;1;drugcat_Antiarrhythmics,_Class_III
+UGT1A1 Inducers;0;277;0.0;1;drugcat_UGT1A1_Inducers
+Prostaglandin E1 Agonist;0;277;0.0;1;drugcat_Prostaglandin_E1_Agonist
+Xanthine derivatives;0;277;0.0;1;drugcat_Xanthine_derivatives
+Tetracyclines;0;277;0.0;1;drugcat_Tetracyclines
+Tests for Gastric Secretion;0;277;0.0;1;drugcat_Tests_for_Gastric_Secretion
+Albumins;0;277;0.0;1;drugcat_Albumins
+Antiseptics and Disinfectants;0;277;0.0;2;drugcat_Antiseptics_and_Disinfectants
+Preservatives, Pharmaceutical;0;277;0.0;1;drugcat_Preservatives,_Pharmaceutical
+17-Hydroxycorticosteroids;0;277;0.0;1;drugcat_17_Hydroxycorticosteroids
+alpha-Galactosidase, antagonists & inhibitors;0;277;0.0;1;drugcat_alpha_Galactosidase,_antagonists_&_inhibitors
+Potassium Channel Blockers;0;277;0.0;1;drugcat_Potassium_Channel_Blockers
+Arabinonucleosides;0;277;0.0;1;drugcat_Arabinonucleosides
+Arginine Vasopressin;0;277;0.0;1;drugcat_Arginine_Vasopressin
+Arteriolar Smooth Muscle, Agents Acting On;0;277;0.0;1;drugcat_Arteriolar_Smooth_Muscle,_Agents_Acting_On
+Tricarboxylic Acids;0;277;0.0;1;drugcat_Tricarboxylic_Acids
+Toxic Actions;0;277;0.0;2;drugcat_Toxic_Actions
+UGT2B7 inducers;0;277;0.0;1;drugcat_UGT2B7_inducers
+Purinergic Antagonists;0;277;0.0;1;drugcat_Purinergic_Antagonists
+Urological Agents;0;277;0.0;2;drugcat_Urological_Agents
+Pyrimidines;0;277;0.0;2;drugcat_Pyrimidines
+Vasopressins;0;277;0.0;1;drugcat_Vasopressins
+Pyrimidinones;0;277;0.0;1;drugcat_Pyrimidinones
+Antidiuretic Agents;0;277;0.0;1;drugcat_Antidiuretic_Agents
+Anti-Infective Agents, Local;0;277;0.0;2;drugcat_Anti_Infective_Agents,_Local
+Vasopressin and Analogues;0;277;0.0;1;drugcat_Vasopressin_and_Analogues
+Vasopressin Analog;0;277;0.0;1;drugcat_Vasopressin_Analog
+Pyrrolidines;0;277;0.0;2;drugcat_Pyrrolidines
+Pyrrolidinones;0;277;0.0;1;drugcat_Pyrrolidinones
+Quaternary Ammonium Compounds;0;277;0.0;1;drugcat_Quaternary_Ammonium_Compounds
+Antianginal Agents;0;277;0.0;1;drugcat_Antianginal_Agents
+Alkaloids;0;277;0.0;1;drugcat_Alkaloids
+Vasodilators Used in Cardiac Diseases;0;277;0.0;1;drugcat_Vasodilators_Used_in_Cardiac_Diseases
+Vasodilation;0;277;0.0;2;drugcat_Vasodilation
+Reactive Oxygen Species;0;277;0.0;1;drugcat_Reactive_Oxygen_Species
+Respiratory and CNS Stimulants;0;277;0.0;1;drugcat_Respiratory_and_CNS_Stimulants
+Venous Vasodilation;0;277;0.0;1;drugcat_Venous_Vasodilation
+Serum Albumin;0;277;0.0;1;drugcat_Serum_Albumin
+Urologicals;0;277;0.0;3;drugcat_Urologicals
+Pyrimidine Nucleosides;0;277;0.0;1;drugcat_Pyrimidine_Nucleosides
+Psychoanaleptics;0;277;0.0;1;drugcat_Psychoanaleptics
+Psychostimulants, Agents Used for ADHD and Nootropics;0;277;0.0;1;drugcat_Psychostimulants,_Agents_Used_for_ADHD_and_Nootropics
+Purinergic Agents;0;277;0.0;1;drugcat_Purinergic_Agents
+Surface-Active Agents;0;277;0.0;1;drugcat_Surface_Active_Agents
+Supplements;0;277;0.0;1;drugcat_Supplements
+Antiinfectives and Antiseptics for Local Oral Treatment;0;277;0.0;1;drugcat_Antiinfectives_and_Antiseptics_for_Local_Oral_Treatment
+Posterior Pituitary Lobe Hormones;0;277;0.0;1;drugcat_Posterior_Pituitary_Lobe_Hormones
+Waxes;0;277;0.0;1;drugcat_Waxes
+Stimulation Large Intestine Fluid/Electrolyte Secretion;0;277;0.0;1;drugcat_Stimulation_Large_Intestine_Fluid/Electrolyte_Secretion
+Anions;0;277;0.0;2;drugcat_Anions
+Anorexigenic Agents & Respiratory and CNS Stimulants;0;277;0.0;1;drugcat_Anorexigenic_Agents_&_Respiratory_and_CNS_Stimulants
+Antiheparin Agents;0;277;0.0;1;drugcat_Antiheparin_Agents
+Acidifying Activity;0;277;0.0;1;drugcat_Acidifying_Activity
+Acidifying Agents;0;277;0.0;1;drugcat_Acidifying_Agents
+Pyrimidine Analogues;0;277;0.0;1;drugcat_Pyrimidine_Analogues
+Autacoids;0;277;0.0;1;drugcat_Autacoids
+Factor VIII Activator;0;277;0.0;1;drugcat_Factor_VIII_Activator
+Polyvalent cation containing laxatives, antacids, oral supplements;0;277;0.0;1;drugcat_Polyvalent_cation_containing_laxatives,_antacids,_oral_supplements
+Indicators and Reagents;0;277;0.0;1;drugcat_Indicators_and_Reagents
+Lincosamide Antibacterial;0;277;0.0;1;drugcat_Lincosamide_Antibacterial
+Lincomycins;0;277;0.0;1;drugcat_Lincomycins
+Laboratory Chemicals;0;277;0.0;1;drugcat_Laboratory_Chemicals
+Iron Compounds;0;277;0.0;1;drugcat_Iron_Compounds
+Ions;0;277;0.0;2;drugcat_Ions
+Inflammation Mediators;0;277;0.0;1;drugcat_Inflammation_Mediators
+Increased Oncotic Pressure;0;277;0.0;1;drugcat_Increased_Oncotic_Pressure
+Cytochrome P-450 CYP2E1 Substrates;0;277;0.0;4;drugcat_Cytochrome_P_450_CYP2E1_Substrates
+Increased Intravascular Volume;0;277;0.0;1;drugcat_Increased_Intravascular_Volume
+Cytochrome P-450 CYP3A4 Substrates with a Narrow Therapeutic Index;0;277;0.0;2;drugcat_Cytochrome_P_450_CYP3A4_Substrates_with_a_Narrow_Therapeutic_Index
+Increased Coagulation Factor VIII Concentration;0;277;0.0;1;drugcat_Increased_Coagulation_Factor_VIII_Concentration
+Increased Coagulation Factor VIII Activity;0;277;0.0;1;drugcat_Increased_Coagulation_Factor_VIII_Activity
+Cytochrome P-450 CYP3A5 Inducers (strong);0;277;0.0;1;drugcat_Cytochrome_P_450_CYP3A5_Inducers_strong
+Hydroxycorticosteroids;0;277;0.0;1;drugcat_Hydroxycorticosteroids
+Cytochrome P-450 CYP2E1 Substrates with a Narrow Therapeutic Index;0;277;0.0;1;drugcat_Cytochrome_P_450_CYP2E1_Substrates_with_a_Narrow_Therapeutic_Index
+Lincosamides;0;277;0.0;1;drugcat_Lincosamides
+Pituitary and Hypothalamic Hormones and Analogues;0;277;0.0;1;drugcat_Pituitary_and_Hypothalamic_Hormones_and_Analogues
+Cytochrome P-450 CYP2C8 Inhibitors (weak);0;277;0.0;1;drugcat_Cytochrome_P_450_CYP2C8_Inhibitors_weak
+Cytochrome P-450 CYP2C18 Substrates with a Narrow Therapeutic Index;0;277;0.0;1;drugcat_Cytochrome_P_450_CYP2C18_Substrates_with_a_Narrow_Therapeutic_Index
+Miscellaneous Vasodilatating Agents;0;277;0.0;1;drugcat_Miscellaneous_Vasodilatating_Agents
+Miscellaneous Local Anti-infectives;0;277;0.0;1;drugcat_Miscellaneous_Local_Anti_infectives
+Cytochrome P-450 CYP2C19 Substrates with a Narrow Therapeutic Index;0;277;0.0;2;drugcat_Cytochrome_P_450_CYP2C19_Substrates_with_a_Narrow_Therapeutic_Index
+Metals, Alkaline Earth;0;277;0.0;1;drugcat_Metals,_Alkaline_Earth
+Cytochrome P-450 CYP2C8 Inducers (strong);0;277;0.0;1;drugcat_Cytochrome_P_450_CYP2C8_Inducers_strong
+Metals;0;277;0.0;1;drugcat_Metals
+Cytochrome P-450 CYP2E1 Inducers (weak);0;277;0.0;1;drugcat_Cytochrome_P_450_CYP2E1_Inducers_weak
+Cytochrome P-450 CYP2C8 Substrates with a Narrow Therapeutic Index;0;277;0.0;1;drugcat_Cytochrome_P_450_CYP2C8_Substrates_with_a_Narrow_Therapeutic_Index
+Medicated Dressings With Antiinfectives;0;277;0.0;1;drugcat_Medicated_Dressings_With_Antiinfectives
+Medicated Dressings;0;277;0.0;1;drugcat_Medicated_Dressings
+Cytochrome P-450 CYP2C9 Inhibitors (moderate);0;277;0.0;1;drugcat_Cytochrome_P_450_CYP2C9_Inhibitors_moderate
+Cytochrome P-450 CYP2C9 Substrates with a Narrow Therapeutic Index;0;277;0.0;1;drugcat_Cytochrome_P_450_CYP2C9_Substrates_with_a_Narrow_Therapeutic_Index
+Cytochrome P-450 CYP2D6 Inhibitors (weak);0;277;0.0;1;drugcat_Cytochrome_P_450_CYP2D6_Inhibitors_weak
+Hydrocortisone and derivatives;0;277;0.0;1;drugcat_Hydrocortisone_and_derivatives
+Human Serum Albumin;0;277;0.0;1;drugcat_Human_Serum_Albumin
+Household Products;0;277;0.0;2;drugcat_Household_Products
+Ferricyanides;0;277;0.0;1;drugcat_Ferricyanides
+Drugs for Peptic Ulcer and Gastro-Oesophageal Reflux Disease (Gord);0;277;0.0;1;drugcat_Drugs_for_Peptic_Ulcer_and_Gastro_Oesophageal_Reflux_Disease_Gord
+Drugs for Treatment of Bone Diseases;0;277;0.0;1;drugcat_Drugs_for_Treatment_of_Bone_Diseases
+Eicosanoids;0;277;0.0;1;drugcat_Eicosanoids
+Electrolytes;0;277;0.0;2;drugcat_Electrolytes
+Elements;0;277;0.0;1;drugcat_Elements
+Emollients;0;277;0.0;1;drugcat_Emollients
+Enzyme Inducing Antiepileptic Drugs;0;277;0.0;1;drugcat_Enzyme_Inducing_Antiepileptic_Drugs
+Highest Risk QTc-Prolonging Agents;0;277;0.0;1;drugcat_Highest_Risk_QTc_Prolonging_Agents
+Ferric Compounds;0;277;0.0;1;drugcat_Ferric_Compounds
+Fatty Acids, Unsaturated;0;277;0.0;1;drugcat_Fatty_Acids,_Unsaturated
+Ethylene Glycols;0;277;0.0;1;drugcat_Ethylene_Glycols
+Excitatory Amino Acid Agents;0;277;0.0;1;drugcat_Excitatory_Amino_Acid_Agents
+Excitatory Amino Acid Antagonists;0;277;0.0;1;drugcat_Excitatory_Amino_Acid_Antagonists
+Fatty Acids, Monounsaturated;0;277;0.0;1;drugcat_Fatty_Acids,_Monounsaturated
+Free Radicals;0;277;0.0;1;drugcat_Free_Radicals
+Drugs for Acid Related Disorders;0;277;0.0;2;drugcat_Drugs_for_Acid_Related_Disorders
+Drugs Used in Erectile Dysfunction;0;277;0.0;2;drugcat_Drugs_Used_in_Erectile_Dysfunction
+Drugs Affecting Bone Structure and Mineralization;0;277;0.0;1;drugcat_Drugs_Affecting_Bone_Structure_and_Mineralization
+Genitourinary Agents;0;277;0.0;2;drugcat_Genitourinary_Agents
+Genitourinary Arterial Vasodilation;0;277;0.0;1;drugcat_Genitourinary_Arterial_Vasodilation
+Disinfectants (For Agents Used on Object);0;277;0.0;1;drugcat_Disinfectants_For_Agents_Used_on_Object
+Disaccharides;0;277;0.0;1;drugcat_Disaccharides
+Direct Vasodilators;0;277;0.0;1;drugcat_Direct_Vasodilators
+Glycols;0;277;0.0;1;drugcat_Glycols
+Glycosides;0;277;0.0;1;drugcat_Glycosides
+Glycylcyclines;0;277;0.0;1;drugcat_Glycylcyclines
+Heparin Antagonists;0;277;0.0;1;drugcat_Heparin_Antagonists
+Detergents;0;277;0.0;1;drugcat_Detergents
+Heparin Reversal Agent;0;277;0.0;1;drugcat_Heparin_Reversal_Agent
+Decreased Sebaceous Gland Activity;0;277;0.0;1;drugcat_Decreased_Sebaceous_Gland_Activity
+Decreased Central Nervous System Disorganized Electrical Activity;0;277;0.0;1;drugcat_Decreased_Central_Nervous_System_Disorganized_Electrical_Activity
+Naphthacenes;0;277;0.0;1;drugcat_Naphthacenes
+Cytochrome P-450 CYP2B6 Inducers (strong);0;277;0.0;1;drugcat_Cytochrome_P_450_CYP2B6_Inducers_strong
+Nerve Tissue Proteins;0;277;0.0;1;drugcat_Nerve_Tissue_Proteins
+Pharmaceutic Aids;0;277;0.0;2;drugcat_Pharmaceutic_Aids
+Bile and Liver Therapy;0;277;0.0;1;drugcat_Bile_and_Liver_Therapy
+Blood Coagulation Factors;0;277;0.0;1;drugcat_Blood_Coagulation_Factors
+Blood Derivatives;0;277;0.0;1;drugcat_Blood_Derivatives
+Blood Substitutes and Plasma Protein Fractions;0;277;0.0;1;drugcat_Blood_Substitutes_and_Plasma_Protein_Fractions
+Blood and Related Products;0;277;0.0;1;drugcat_Blood_and_Related_Products
+Phenobarbital and similars;0;277;0.0;1;drugcat_Phenobarbital_and_similars
+Peroxides;0;277;0.0;1;drugcat_Peroxides
+Cardiac Function;0;277;0.0;1;drugcat_Cardiac_Function
+Caffeine and Caffeine Containing Products;0;277;0.0;1;drugcat_Caffeine_and_Caffeine_Containing_Products
+Peptide Hormones;0;277;0.0;1;drugcat_Peptide_Hormones
+Calcium Compounds;0;277;0.0;2;drugcat_Calcium_Compounds
+P-glycoprotein substrates with a Narrow Therapeutic Index;0;277;0.0;1;drugcat_P_glycoprotein_substrates_with_a_Narrow_Therapeutic_Index
+Oxidants;0;277;0.0;1;drugcat_Oxidants
+Explosive Agents;0;277;0.0;1;drugcat_Explosive_Agents
+Bile acids and derivatives;0;277;0.0;1;drugcat_Bile_acids_and_derivatives
+Bile Therapy;0;277;0.0;1;drugcat_Bile_Therapy
+Bile Acids and Salts;0;277;0.0;1;drugcat_Bile_Acids_and_Salts
+Bile Acid Preparations;0;277;0.0;1;drugcat_Bile_Acid_Preparations
+Phosphate Chelating Activity;0;277;0.0;1;drugcat_Phosphate_Chelating_Activity
+Benzylammonium Compounds;0;277;0.0;1;drugcat_Benzylammonium_Compounds
+Benzofurans;0;277;0.0;1;drugcat_Benzofurans
+Phosphodiesterase 5 Inhibitors;0;277;0.0;1;drugcat_Phosphodiesterase_5_Inhibitors
+Benzalkonium Compounds;0;277;0.0;1;drugcat_Benzalkonium_Compounds
+Basic Ointments and Protectants;0;277;0.0;2;drugcat_Basic_Ointments_and_Protectants
+Barbiturates and Derivatives;0;277;0.0;1;drugcat_Barbiturates_and_Derivatives
+Barbiturates;0;277;0.0;1;drugcat_Barbiturates
+BSEP/ABCB11 Substrates with a Narrow Therapeutic Index;0;277;0.0;1;drugcat_BSEP/ABCB11_Substrates_with_a_Narrow_Therapeutic_Index
+Piperazines;0;277;0.0;1;drugcat_Piperazines
+Pituitary;0;277;0.0;1;drugcat_Pituitary
+Pituitary Hormones;0;277;0.0;1;drugcat_Pituitary_Hormones
+Pituitary Hormones, Posterior;0;277;0.0;1;drugcat_Pituitary_Hormones,_Posterior
+Organic Nitrates;0;277;0.0;1;drugcat_Organic_Nitrates
+Cardiotoxic antineoplastic agents;0;277;0.0;1;drugcat_Cardiotoxic_antineoplastic_agents
+Neuromuscular Blockade;0;277;0.0;1;drugcat_Neuromuscular_Blockade
+Nitro Compounds;0;277;0.0;1;drugcat_Nitro_Compounds
+Noxae;0;277;0.0;2;drugcat_Noxae
+Nitrogen Compounds;0;277;0.0;1;drugcat_Nitrogen_Compounds
+Cytidine Deaminase Substrates;0;277;0.0;1;drugcat_Cytidine_Deaminase_Substrates
+Cytochrome P-450 CYP1A2 Inducers;0;277;0.0;1;drugcat_Cytochrome_P_450_CYP1A2_Inducers
+Cytochrome P-450 CYP1A2 Inducers (strength unknown);0;277;0.0;1;drugcat_Cytochrome_P_450_CYP1A2_Inducers_strength_unknown
+Nitroferricyanide Derivatives;0;277;0.0;1;drugcat_Nitroferricyanide_Derivatives
+Nitric Oxide Donors;0;277;0.0;1;drugcat_Nitric_Oxide_Donors
+Onium Compounds;0;277;0.0;1;drugcat_Onium_Compounds
+Cytochrome P-450 CYP1A2 Inhibitors (strong);0;277;0.0;1;drugcat_Cytochrome_P_450_CYP1A2_Inhibitors_strong
+Nitrates and Nitrites;0;277;0.0;2;drugcat_Nitrates_and_Nitrites
+Nitrate Vasodilator;0;277;0.0;1;drugcat_Nitrate_Vasodilator
+Cytochrome P-450 CYP2A6 Inhibitors;0;277;0.0;1;drugcat_Cytochrome_P_450_CYP2A6_Inhibitors
+Cytochrome P-450 CYP2A6 Inhibitors (moderate);0;277;0.0;1;drugcat_Cytochrome_P_450_CYP2A6_Inhibitors_moderate
+Neuropeptides;0;277;0.0;1;drugcat_Neuropeptides
+Cyanides;0;277;0.0;1;drugcat_Cyanides
+Nuclear Proteins;0;277;0.0;1;drugcat_Nuclear_Proteins
+Cosmetics;0;277;0.0;1;drugcat_Cosmetics
+Nucleic Acids, Nucleotides, and Nucleosides;0;277;0.0;1;drugcat_Nucleic_Acids,_Nucleotides,_and_Nucleosides
+Nucleoproteins;0;277;0.0;1;drugcat_Nucleoproteins
+Nucleoside Metabolic Inhibitor;0;277;0.0;1;drugcat_Nucleoside_Metabolic_Inhibitor
+Nucleosides;0;277;0.0;1;drugcat_Nucleosides
+Coagulants;0;277;0.0;1;drugcat_Coagulants
+Cholic Acids;0;277;0.0;1;drugcat_Cholic_Acids
+Cholelitholytic Agents;0;277;0.0;1;drugcat_Cholelitholytic_Agents
+Cholanes;0;277;0.0;1;drugcat_Cholanes
+Cholagogues and Choleretics;0;277;0.0;1;drugcat_Cholagogues_and_Choleretics
+Central alpha-2 Adrenergic Agonist;0;277;0.0;1;drugcat_Central_alpha_2_Adrenergic_Agonist
+Central Nervous System Stimulation;0;277;0.0;1;drugcat_Central_Nervous_System_Stimulation
+Central Nervous System Stimulants;0;277;0.0;1;drugcat_Central_Nervous_System_Stimulants
+Ointment Bases;0;277;0.0;1;drugcat_Ointment_Bases
+Oligopeptides;0;277;0.0;1;drugcat_Oligopeptides
+11-Hydroxycorticosteroids;0;277;0.0;1;drugcat_11_Hydroxycorticosteroids
