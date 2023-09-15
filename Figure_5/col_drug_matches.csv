@@ -1,0 +1,298 @@
+original;cleaned_names;alias_name;drugbank_id;fuzzy_score;edit_distance
+LOS;LOS;Losec;DB00338;75;2
+Eosinophils;Eosinophils;Fosinopril;DB00492;76;3
+ALB/GLB;ALB/GLB;;;;
+adenosine_deaminase;adenosine_deaminase;2-Amino-Adenosine;DB04102;72;14
+Albumin;Albumin;Albumin (Human);DB00062;100;7
+Alkaline_Phosphatase;Alkaline_Phosphatase;Alkaline Phosphatase;DB05768;97;1
+Alanine_Aminotransferase_(ALT);Alanine_Aminotransferase_(ALT);;;;
+Amylase;Amylase;Amylose;DB15216;86;1
+Asparate_Aminotransferase_(AST);Asparate_Aminotransferase_(AST);;;;
+Urea;Urea;(4-(trifluoromethoxy)phenyl)urea;DB15610;100;28
+Calcium,_Total;Calcium,_Total;Coral Calcium;DB06724;31;12
+Cholesterol,_Total;Cholesterol,_Total;Cholesterol;DB04540;100;7
+Creatine_Kinase_(CK);Creatine_Kinase_(CK);;;;
+Creatine_Kinase,_MB_Isoenzyme;Creatine_Kinase,_MB_Isoenzyme;;;;
+Creatinine;Creatinine;Creatinine;DB11846;100;0
+Bilirubin,_Direct;Bilirubin,_Direct;;;;
+Gamma_Glutamyltransferase;Gamma_Glutamyltransferase;;;;
+Globulin;Globulin;Lobeline;DB05137;44;3
+Bilirubin,_Indirect;Bilirubin,_Indirect;;;;
+Lactate_Dehydrogenase_(LD);Lactate_Dehydrogenase_(LD);;;;
+Phosphate;Phosphate;Levomefolate Calcium, Pyridoxal 5-phosphate, Methylcobalamin and Schizochytrium DHA Oil;DB00114;100;70
+Total_Bile_Acid;Total_Bile_Acid;;;;
+Bilirubin,_Total;Bilirubin,_Total;;;;
+Triglycerides;Triglycerides;Triglide;DB01039;76;5
+Protein,_Total;Protein,_Total;Total Sun Protection;DB01428;75;14
+Uric_Acid,_Urine;Uric_Acid,_Urine;;;;
+Neutrophils;Neutrophils;Nutropin;DB00052;74;4
+Neutrophils_%;Neutrophils_%;Nutropin;DB00052;70;6
+Hematocrit;Hematocrit;Hemacart;DB01390;78;4
+Hemoglobin;Hemoglobin;Hemoglobin;DB04945;100;0
+Absolute_Lymphocyte_Count;Absolute_Lymphocyte_Count;;;;
+Lymphocytes,_Percent;Lymphocytes,_Percent;;;;
+MCH;MCH;;;;
+MCHC;MCHC;MCC;DB05282;86;1
+MCV;MCV;;;;
+Mean_Platelet_Volume_(MPV);Mean_Platelet_Volume_(MPV);;;;
+PCT;PCT;;;;
+Platelet_distribution_width;Platelet_distribution_width;;;;
+Platelet_Count;Platelet_Count;;;;
+Red_Blood_Cells;Red_Blood_Cells;;;;
+RDW;RDW;;;;
+WBC_Count;WBC_Count;;;;
+Base_Excess;Base_Excess;;;;
+Chloride,_Whole_Blood;Chloride,_Whole_Blood;;;;
+Carboxyhemoglobin;Carboxyhemoglobin;Hemoglobin;DB04945;74;7
+Glucose;Glucose;3-O-Methyl-d-glucose;DB16765;100;13
+Calculated_Bicarbonate,_Whole_Blood;Calculated_Bicarbonate,_Whole_Blood;;;;
+Potassium;Potassium;Buffered Vitamin C Pwr W Cal-mag-potassium;DB00126;100;28
+Lactate;Lactate;3-(INDOL-3-YL) LACTATE;DB07060;100;14
+Methemoglobin;Methemoglobin;Hemoglobin;DB04945;87;3
+Sodium,_Whole_Blood;Sodium,_Whole_Blood;;;;
+pCO2;pCO2;;;;
+pH;pH;Ph.Hubby 1g Sun Cream Intensive Protection;DB00640;100;35
+pO2;pO2;;;;
+Bicarbonate;Bicarbonate;Omeprazole/Bicarbonate;DB00338;100;11
+Oxygen_Saturation;Oxygen_Saturation;;;;
+Prealbumin;Prealbumin;Albuminex;DB00062;74;5
+Basophils;Basophils;Basil;DB10829;71;4
+Basophils_Count;Basophils_Count;;;;
+Cholinesterase;Cholinesterase;Congest-ease;DB14752;77;6
+Cystatin_C;Cystatin_C;Nystatin;DB00646;78;3
+Monocyte_Count;Monocyte_Count;;;;
+Monocytes;Monocytes;Hemocyte;DB14491;71;4
+Eosinophil_Count;Eosinophil_Count;;;;
+Serum_hemolytic_index;Serum_hemolytic_index;;;;
+Serum__icteric_index;Serum__icteric_index;;;;
+Lipase;Lipase;Lip Massage;DB01428;75;4
+Temperature;Temperature;Tempra;DB00316;71;5
+Heart_Rate;Heart_Rate;Metrate;DB00514;71;4
+Respiratory_Rate;Respiratory_Rate;;;;
+Excrement;Excrement;Flexacreme;DB11079;74;5
+Diastolic_Pressure;Diastolic_Pressure;;;;
+Systolic_Pressure;Systolic_Pressure;;;;
+C-Reactive_Protein;C-Reactive_Protein;;;;
+Procalcitonin;Procalcitonin;Procalcitonin;DB14812;100;0
+index;index;Sinex;DB00316;80;2
+_Dexmedetomidine_Hydrochloride_Injection;_Dexmedetomidine_Hydrochloride_Injection;Dexmedetomidine Hydrochloride Injection;DB00633;96;3
+(4:1)Glucose_and_Sodium_Chloride_Injection;(4:1)Glucose_and_Sodium_Chloride_Injection;10% Dextrose and 0.9% Sodium Chloride Injection USP;DB09153;75;19
+0.9%_Sodium_Chloride_Injection;0.9%_Sodium_Chloride_Injection;0.9% Sodium Chloride Injection;DB09153;95;3
+10%_Calcium_Gluconate_Injection;10%_Calcium_Gluconate_Injection;Calcium Gluconate Injection USP;DB11126;85;9
+10%_Chloral_Hydrate_Enemas;10%_Chloral_Hydrate_Enemas;Chloral hydrate;DB01563;70;12
+10%_Chloral_Hydrate_Syrup;10%_Chloral_Hydrate_Syrup;Chloral Hydrate Syrup Odan;DB01563;30;10
+10%_Glucose_Injection;10%_Glucose_Injection;;;;
+10%_Potassium_Chloride_Injection;10%_Potassium_Chloride_Injection;Potassium Chloride Injection;DB00761;90;6
+10%_Potassium_Chloride_Oral_Solution;10%_Potassium_Chloride_Oral_Solution;Potassium Chloride for Oral Solution;DB00761;85;9
+10%_Sodium_Chloride_Injection;10%_Sodium_Chloride_Injection;Potassium Chloride Injection;DB00761;68;8
+20%_Albumin_Prepared_From_Human_Plasma_Injection;20%_Albumin_Prepared_From_Human_Plasma_Injection;;;;
+20%_Mannitol_Injection;20%_Mannitol_Injection;Mannitol Injection USP;DB00742;81;8
+20%_Medium_and_Long_Chain_Fat_Emulsion_Injection;20%_Medium_and_Long_Chain_Fat_Emulsion_Injection;;;;
+25%_Magnesium_Sulfate_Injection;25%_Magnesium_Sulfate_Injection;Magnesium Sulfate Injection USP;DB00653;85;9
+5%_Amino_Acidi_Injection;5%_Amino_Acidi_Injection;Aminosyn II 8.5% Injection;DB00145;77;11
+5%_Calcium_Chloride_Injection;5%_Calcium_Chloride_Injection;Calcium Chloride Injection BP;DB01164;87;7
+5%_Glucose_Injection;5%_Glucose_Injection;5% Dextrose Injection;DB01914;72;6
+5%_Glucose_and_Sodium_Chloride_Injection;5%_Glucose_and_Sodium_Chloride_Injection;5% Dextrose and 0.9% Sodium Chloride Injection USP;DB09341;75;15
+5%_Sodium_Bicarbonate_Injection;5%_Sodium_Bicarbonate_Injection;Sodium Bicarbonate Injection;DB01390;91;5
+50%_Glucose_Injection;50%_Glucose_Injection;5% Dextrose Injection;DB01914;70;7
+6%_Dextran_40_Glucose_Injection;6%_Dextran_40_Glucose_Injection;5% Dextrose Injection;DB01914;72;13
+Aciclovir_for_Injection;Aciclovir_for_Injection;Ganciclovir for Injection;DB01004;91;4
+Ademetionine__1,4-Butanedisulfonate_for_Injection;Ademetionine__1,4-Butanedisulfonate_for_Injection;;;;
+Adrenaline_Hydrochlaride_Injection;Adrenaline_Hydrochlaride_Injection;Hydralazine Hydrochloride Injection;DB01275;84;8
+Alprostadil_Injection;Alprostadil_Injection;Famotidine Injection;DB00927;56;8
+Ambroxol_Hydrochloride_Injection;Ambroxol_Hydrochloride_Injection;Naloxone Hydrochloride Injection;DB01183;84;7
+Ambroxol_Hydrochloride_and_Glucose_Injection;Ambroxol_Hydrochloride_and_Glucose_Injection;Naloxone Hydrochloride Injection;DB01183;70;19
+Aminomethylbenzoic_Acid_Injection;Aminomethylbenzoic_Acid_Injection;Aminomethylbenzoic acid;DB13244;80;11
+Amiodarone_Hydrochloride_injection;Amiodarone_Hydrochloride_injection;Amiodarone Hydrochloride Injection;DB01118;97;2
+Amoxicillin_Sodium_and_Clavulanate_Potassium_for_Injection;Amoxicillin_Sodium_and_Clavulanate_Potassium_for_Injection;Amoxicillin Sodium and Potassium Clavulanate for Injection;DB00766;78;23
+Ampicillin_Sodium_and_Sulbactam_Sodium_for_Injection;Ampicillin_Sodium_and_Sulbactam_Sodium_for_Injection;;;;
+Arginine_Hydrochloride_Injection;Arginine_Hydrochloride_Injection;L-arginine Hydrochloride Injection;DB00125;94;4
+Azithromycin_for_Injection;Azithromycin_for_Injection;Azithromycin for Injection;DB00207;96;2
+Beclomethasone_dipropionate_inhalation_suspension;Beclomethasone_dipropionate_inhalation_suspension;Beclomethasone Dipropionate Nasal Inhaler;DB00394;74;17
+Benzalkonium_Chloride_Patches;Benzalkonium_Chloride_Patches;Benzalkonium Chloride;DB11105;82;9
+Benzylpenicillin_Sodium_for_Injection;Benzylpenicillin_Sodium_for_Injection;Penicillin G Sodium for Injection;DB01053;85;9
+Budesonide_Suspension_for_Inhalation;Budesonide_Suspension_for_Inhalation;Budesonide Inhalation;DB01222;71;16
+Caffeine_Citrate_Injection;Caffeine_Citrate_Injection;Caffeine Citrate Injection USP;DB00201;91;5
+Calcium_Acetate_Granules;Calcium_Acetate_Granules;Calcium Acetate;DB00258;74;10
+Calcium_Carbonate_and_Vitamin_D3_Chewable_Tablets;Calcium_Carbonate_and_Vitamin_D3_Chewable_Tablets;;;;
+Calcium_Gluconate_Oral_Solution;Calcium_Gluconate_Oral_Solution;Calcium Carbonate Oral Suspension;DB06724;72;12
+Captopril_Tablets;Captopril_Tablets;Captopril Tablets;DB01197;97;1
+Caspofungin_Acetate_for_Injection;Caspofungin_Acetate_for_Injection;Caspofungin Acetate for Injection;DB00520;95;3
+Cattle_Encephalon_Glycoside_and_Ignotin_Injection;Cattle_Encephalon_Glycoside_and_Ignotin_Injection;;;;
+Cefmenoxime_Hydrochloride_for_Injection;Cefmenoxime_Hydrochloride_for_Injection;Remifentanil Hydrochloride for Injection;DB00899;79;12
+Cefoperazone_Sodium_and_Sulbactam_Sodium_for_Injection;Cefoperazone_Sodium_and_Sulbactam_Sodium_for_Injection;;;;
+Cefotaxime_Sodium_for_Injection;Cefotaxime_Sodium_for_Injection;Cefotaxime Sodium for Injection BP;DB00493;92;5
+Cefotiam_Hydrochloride_for_Injection;Cefotiam_Hydrochloride_for_Injection;Topotecan Hydrochloride for Injection;DB01030;80;9
+Cefradine_for_Injection;Cefradine_for_Injection;Ceftriaxone for Injection;DB01212;83;6
+Ceftriaxone_Sodium_for_Injection;Ceftriaxone_Sodium_for_Injection;Ceftriaxone Sodium for Injection;DB01212;95;3
+Cefuroxime_Sodium_For_Injection;Cefuroxime_Sodium_For_Injection;Cefotaxime for Injection USP;DB00493;66;15
+Chlorpromazine_Hydrochloride_Injection;Chlorpromazine_Hydrochloride_Injection;Chlorpromazine Hydrochloride Injection;DB00477;97;2
+Clindamycin_Phosphate_for_Injection;Clindamycin_Phosphate_for_Injection;Clindamycin Phosphate Injection USP Liq;DB01190;83;12
+Clostridium_butyricum_Powder,Live;Clostridium_butyricum_Powder,Live;;;;
+Coenzyme_Complex_for_Injection;Coenzyme_Complex_for_Injection;Voriconazole for Injection;DB00582;70;14
+Compound_Amino_Acid_Injection;Compound_Amino_Acid_Injection;;;;
+Compound_Chlorhexidine_Gargle;Compound_Chlorhexidine_Gargle;;;;
+Compound_Glycyrrhizin_Injection;Compound_Glycyrrhizin_Injection;;;;
+Compound_Glycyrrhizin_Tablets_;Compound_Glycyrrhizin_Tablets_;;;;
+Compound_Sulfamethoxazole_Tablets;Compound_Sulfamethoxazole_Tablets;Apo Sulfamethoxazole Tab 500mg;DB01015;70;13
+Compound_Tropicamide_Eye_Drops;Compound_Tropicamide_Eye_Drops;;;;
+Concentrated_Sodium_Chloride_Injection;Concentrated_Sodium_Chloride_Injection;Potassium Chloride Injection;DB00761;75;14
+Creatine_phosphate_sodium_for_injection;Creatine_phosphate_sodium_for_injection;Fludarabine Phosphate for Injection;DB01073;73;17
+Cytarabine_for_Injection;Cytarabine_for_Injection;Cytarabine Injection;DB00987;88;5
+Deslanoside_Injection;Deslanoside_Injection;Adenosine Injection;DB00640;82;6
+Desmopressin_Acetate_Tablets;Desmopressin_Acetate_Tablets;Desmopressin Acetate;DB00035;81;9
+Dexamethasone_Acetate_Tablets;Dexamethasone_Acetate_Tablets;Dexamethasone Tablets;DB01234;82;9
+Dexamethasone_Sodium_Phosphate_Injection;Dexamethasone_Sodium_Phosphate_Injection;Sodium Phosphates Injection USP;DB09449;57;19
+Diazepam_Injection;Diazepam_Injection;Diazepam Injection Sdz;DB00829;89;4
+Digoxin_Elixirs;Digoxin_Elixirs;;;;
+Digoxin_Oral_Solution;Digoxin_Oral_Solution;Lasix Oral Solution;DB00695;74;8
+Dobutamine_Hydrochloride_Injection;Dobutamine_Hydrochloride_Injection;Lidocaine Hydrochloride Injection;DB00281;86;8
+Dopamine_Hydrochloride_Injection;Dopamine_Hydrochloride_Injection;Epirubicin Hydrochloride for Injection;DB00445;43;12
+Enema_Glycerini;Enema_Glycerini;Lemon Glycerin;DB09462;71;5
+Erythromycin_Lactobionate_for_Injection;Erythromycin_Lactobionate_for_Injection;Erythrocin Lactobionate;DB00199;44;17
+Erythromycin_Ointment;Erythromycin_Ointment;Erythromycin Lactobionate;DB00199;76;10
+Etamsylate_Injection;Etamsylate_Injection;Atracurium Besylate Injection;DB00732;77;10
+Fat-Soluble_Vitamin_Injection(Ⅱ);Fat-Soluble_Vitamin_Injection(Ⅱ);;;;
+Fat-soluble_Vitamins_for_Injection(I);Fat-soluble_Vitamins_for_Injection(I);;;;
+Fentanyl_Citrate_Injection;Fentanyl_Citrate_Injection;Fentanyl Citrate Injection;DB00813;96;2
+Fluconazole_Capsules;Fluconazole_Capsules;PHL-fluconazole;DB00196;74;13
+Fluconazole_Injection;Fluconazole_Injection;Fluconazole Injection;DB00196;98;1
+Fluconazole_and_Sodium_Chloride_Injection;Fluconazole_and_Sodium_Chloride_Injection;Fluconazole In Sodium Chloride Injection USP;DB00196;88;9
+Fructose_Diphosphate_Sodium_Injection;Fructose_Diphosphate_Sodium_Injection;;;;
+Fructose_Sodium_Diphosphate_Oral_Solution;Fructose_Sodium_Diphosphate_Oral_Solution;Prednisolone Sodium Phosphate Oral Solution;DB14631;75;15
+Furosemide_Injection;Furosemide_Injection;Furosemide Injection;DB00695;97;1
+Ganciclovir_for_Injection;Ganciclovir_for_Injection;Ganciclovir for Injection;DB01004;96;2
+Glutamine_for_Injection;Glutamine_for_Injection;Gemcitabine for Injection;DB00441;78;7
+Glycerol_Fructose_and_Sodium_Chloride_Injection;Glycerol_Fructose_and_Sodium_Chloride_Injection;3.3% Dextrose and 0.3% Sodium Chloride Injection USP;DB09153;70;23
+Haemocoagulase_Agkistrodon_for_Injection;Haemocoagulase_Agkistrodon_for_Injection;;;;
+Hemocoagulase_Atrox_for_Injection;Hemocoagulase_Atrox_for_Injection;;;;
+Hemocoagulase_For_Injection;Hemocoagulase_For_Injection;Voriconazole for Injection;DB00582;71;11
+Heparin_Sodium_Injection;Heparin_Sodium_Injection;Heparin Sodium Injection USP;DB01109;90;5
+Human_Fibrinogen;Human_Fibrinogen;;;;
+Human_Immumoglobulin_for_Intravenous_Injection;Human_Immumoglobulin_for_Intravenous_Injection;Immune Globulin Intravenous (human) 5%;DB00028;71;23
+Human_Prothrombin_Complex;Human_Prothrombin_Complex;;;;
+Hydrochlorothiazide_Tablets;Hydrochlorothiazide_Tablets;Hydrochlorothiazide Tablets 50mg;DB00999;91;5
+Hydrocortisone_Sodium_Succinate_For_Injection;Hydrocortisone_Sodium_Succinate_For_Injection;Hydrocortisone Sodium Succinate for Injection;DB14545;95;4
+Hydrogen_Peroxide_Solution;Hydrogen_Peroxide_Solution;Hydrogen Peroxide Solution 3%;DB11091;94;4
+Hydroxyethyl_Starch_200/0.5_and_Sodium_Chloride_Injection;Hydroxyethyl_Starch_200/0.5_and_Sodium_Chloride_Injection;;;;
+Ibuprofen_Suspension;Ibuprofen_Suspension;Ibuprofen Oral Suspension USP;DB01050;83;7
+Imipenem_and_Cilastatin_Sodium_for_Injection;Imipenem_and_Cilastatin_Sodium_for_Injection;Imipenem and Cilastatin for Injection;DB01597;86;11
+Indometacin_Enteric-coated_Tablets;Indometacin_Enteric-coated_Tablets;;;;
+Insulin_Injection;Insulin_Injection;Cisplatin Injection;DB00515;80;6
+Ipratropium_Bromide_Solution_for_Inhalation;Ipratropium_Bromide_Solution_for_Inhalation;;;;
+Isoprenaline_Hydrochloride_Injection;Isoprenaline_Hydrochloride_Injection;Lidocaine Hydrochloride Injection;DB00281;84;9
+Kaihoujian_Penwuji;Kaihoujian_Penwuji;;;;
+Lactobacillus_LB_sachets;Lactobacillus_LB_sachets;Lactobacillus helveticus;DB14226;72;9
+Lactulose_Oral_Solution;Lactulose_Oral_Solution;Lactulose Solution;DB00581;85;6
+Latamoxef_Sodium_for_Injection;Latamoxef_Sodium_for_Injection;Pantoprazole Sodium for Injection;DB00213;77;11
+Levetiracetam_Tablets;Levetiracetam_Tablets;Jamp Levetiracetam Tablets;DB01202;89;5
+Levocarnitine_Injection;Levocarnitine_Injection;Cladribine Injection;DB00242;76;9
+Levofloxacin_Eye_Drops;Levofloxacin_Eye_Drops;PMS-levofloxacin;DB01137;74;14
+Levofloxacin_and_Sodium_Chloride_Injection;Levofloxacin_and_Sodium_Chloride_Injection;Fluconazole In Sodium Chloride Injection USP;DB00196;72;19
+Levothyroxine_Sodium_Tablets;Levothyroxine_Sodium_Tablets;Levothyroxine Sodium;DB00451;81;9
+Lidocaine_Hydrochloride_Injection;Lidocaine_Hydrochloride_Injection;Lidocaine Hydrochloride Injection;DB00281;97;2
+Linezolid_Injection;Linezolid_Injection;Linezolid Injection;DB00601;97;1
+Linezolid_Tablets_;Linezolid_Tablets_;Linezolid Tablets;DB00601;94;2
+Live_Combined_Bifidobacterium,_Lactobacillus_and_Enterococcus_Powder,oral;Live_Combined_Bifidobacterium,_Lactobacillus_and_Enterococcus_Powder,oral;;;;
+Low-molecular-weight_Heparin_Calcium_Injection;Low-molecular-weight_Heparin_Calcium_Injection;;;;
+Lyophilizing_Thrombin_Powder;Lyophilizing_Thrombin_Powder;;;;
+Medium_and_Long_Chain_Fat_Emulsion_Injection;Medium_and_Long_Chain_Fat_Emulsion_Injection;;;;
+Medium_and_Long_Chain_Fat_Emulsion_Injection(C6-24);Medium_and_Long_Chain_Fat_Emulsion_Injection(C6-24);;;;
+Meropenem_for_Injection;Meropenem_for_Injection;Meropenem for Injection;DB00760;95;2
+Methylprednisolone_Sodium_Succinate_for_Injection;Methylprednisolone_Sodium_Succinate_for_Injection;Methylprednisolone Sodium Succinate for Injection;DB14644;44;4
+Metronidazole_Disodium_Phosphate_for_Injection;Metronidazole_Disodium_Phosphate_for_Injection;Dexamethasone Sodium Phosphate Injection Sdz;DB01234;70;21
+Midazolam_Injection;Midazolam_Injection;Midazolam Injection;DB00683;97;1
+Milrinone_Injection;Milrinone_Injection;Milrinone Injection;DB00235;97;1
+Milrinone_Lactate_Injection;Milrinone_Lactate_Injection;Milrinone Lactate Injection;DB00235;96;2
+Monosialotetrahexosylganglioside_Sodium_for_Injection;Monosialotetrahexosylganglioside_Sodium_for_Injection;;;;
+Montmorillonite_Powder;Montmorillonite_Powder;Montmorillonite;DB13654;81;7
+Morphine_Hydrachloride_Injection;Morphine_Hydrachloride_Injection;Hydromorphone Hydrochloride Injection;DB00327;84;9
+Mouse_Nerve_Growth_Factor_for_Injection;Mouse_Nerve_Growth_Factor_for_Injection;;;;
+Mucopolysaccharide_Polysulfate_Cream;Mucopolysaccharide_Polysulfate_Cream;Mucopolysaccharide polysulphate;DB16564;85;9
+Multi-trace_Elements_Injection(Ⅱ);Multi-trace_Elements_Injection(Ⅱ);Trace Elements Injection USP;DB06757;33;11
+Mupirocin_Ointment;Mupirocin_Ointment;Bacitracin Ointment;DB00626;39;6
+Nadroparin_Calcium;Nadroparin_Calcium;Carbaspirin calcium;DB13612;72;7
+Nifedipine_Tablets;Nifedipine_Tablets;Nitisinone Tablets;DB00348;74;6
+Nimodipine_Injection;Nimodipine_Injection;Famotidine Injection;DB00927;77;5
+Nitrofuracilin_Zinc_Oxide_Liniment;Nitrofuracilin_Zinc_Oxide_Liniment;;;;
+Nitroglycerin_Injection;Nitroglycerin_Injection;Nitroglycerin Injection USP;DB00727;92;4
+Norepinephrine_Bitartrate_Injection;Norepinephrine_Bitartrate_Injection;Norepinephrine Bitartrate Injection;DB00368;97;2
+Nysfungin_Liniment_;Nysfungin_Liniment_;;;;
+Ofloxacin_Eye_Ointment;Ofloxacin_Eye_Ointment;Soframycin Ointment;DB00027;70;10
+Omeprazole_Sodium_For_Injection;Omeprazole_Sodium_For_Injection;Pantoprazole Sodium for Injection;DB00213;85;8
+Ondansetron_Hydrochloride_Injection;Ondansetron_Hydrochloride_Injection;Ondansetron Hydrochloride Dihydrate Injection;DB00904;45;10
+Oral_Chloral_Hydrate;Oral_Chloral_Hydrate;Chloral hydrate;DB01563;82;6
+Oseltamivir__Phosphate_Capsules;Oseltamivir__Phosphate_Capsules;Oseltamivir Phosphate for Oral Suspension;DB00198;35;14
+Paracetamol_Suspension_Drop;Paracetamol_Suspension_Drop;Infant's Acetaminophen Suspension Drops;DB00316;70;15
+Pediatric_Compound_Amino_Acid_Injection(19AA-1);Pediatric_Compound_Amino_Acid_Injection(19AA-1);;;;
+Pediatric_Compound_Amino_Acid_Injection(19AA-I);Pediatric_Compound_Amino_Acid_Injection(19AA-I);;;;
+Phenobarbital_Sodium_for_Injection;Phenobarbital_Sodium_for_Injection;Phenobarbital Sodium Injection, USP;DB01174;85;10
+Phenobarbital_Tablets;Phenobarbital_Tablets;Phenobarbital Tablet 60mg;DB01174;86;5
+Piperacillin_Sodium_and_Tazobactam_Sodium_Injection;Piperacillin_Sodium_and_Tazobactam_Sodium_Injection;PIPERACILLIN SODIUM and TAZOBACTAM SODIUM;DB00319;84;14
+Piperacillin_Sodium_and_Tazobactam_Sodium_for_Injection;Piperacillin_Sodium_and_Tazobactam_Sodium_for_Injection;PIPERACILLIN SODIUM and TAZOBACTAM SODIUM;DB00319;80;18
+Placenta_Polypeptide_Injection;Placenta_Polypeptide_Injection;;;;
+Posterior_Pituitary_Injection;Posterior_Pituitary_Injection;;;;
+Potassium_Chloride_Sustained-release_Tablets;Potassium_Chloride_Sustained-release_Tablets;Potassium Chloride Extended Release;DB00761;33;17
+Potassium_Chloride_Tablets;Potassium_Chloride_Tablets;Potassium Chloride ER;DB00761;80;8
+Povidone_lodine_Solution;Povidone_lodine_Solution;Lights Povidone Iodine Solution;DB06812;81;9
+Prednisone_Acetate_Tablets;Prednisone_Acetate_Tablets;Prednisone acetate;DB14646;79;9
+Procaterol_Hydrochloride_Oral_Solution;Procaterol_Hydrochloride_Oral_Solution;Oxycodone Hydrochloride Oral Solution;DB00497;78;11
+Promethazine_Hydrochloride_Injection;Promethazine_Hydrochloride_Injection;Promethazine Hydrochloride Injection USP;DB01069;93;5
+Promethazine_Hydrochloride_Tablets;Promethazine_Hydrochloride_Tablets;Promethazine hydrochloride;DB01069;85;9
+Proparacaine_Hydrochloride_Eye_Drops;Proparacaine_Hydrochloride_Eye_Drops;Proparacaine Hydrochloride;DB00807;82;11
+Propofol_Injectable_Emulsion;Propofol_Injectable_Emulsion;Propofol Injectable Emulsion;DB00818;96;2
+Protamine_Sulfate_Injection;Protamine_Sulfate_Injection;Protamine Sulfate Injection USP;DB09141;91;5
+Purified_Protein_Derivative_of_BCG;Purified_Protein_Derivative_of_BCG;Tuberculin purified protein derivative;DB11601;72;19
+Recombinant_Human_Granulocyte_Colony-stimulating_Factor_Injection;Recombinant_Human_Granulocyte_Colony-stimulating_Factor_Injection;;;;
+Reduced_Glutathione_Sodium_for_Injection;Reduced_Glutathione_Sodium_for_Injection;Ceftriaxone Sodium for Injection;DB01212;72;16
+Ribavirin_for_Injection;Ribavirin_for_Injection;Bacitracin for Injection;DB00626;80;8
+Salbutamol_Sulfate_Nebules_Inhalation_Solution;Salbutamol_Sulfate_Nebules_Inhalation_Solution;Albuterol Sulfate Inhalation Solution;DB01001;80;14
+Sildenafil_Citrate_Tablets;Sildenafil_Citrate_Tablets;Sildenafil Citrate;DB00203;79;9
+Sodium_Chloride_Physiological_Solution;Sodium_Chloride_Physiological_Solution;Sodium Chloride Inhalation Solution;DB09153;71;13
+Sodium_Glycerophosphate_Injection;Sodium_Glycerophosphate_Injection;Sodium glycerophosphate;DB09561;80;11
+Sodium_Hyaluronate_Eye_Drops;Sodium_Hyaluronate_Eye_Drops;;;;
+Sodium_Nitroprusside_for_Injection;Sodium_Nitroprusside_for_Injection;Sodium Nitroprusside for Injection;DB00325;95;3
+Sodium_Valproate_Oral_Solution;Sodium_Valproate_Oral_Solution;Valproic Acid Oral Solution;DB00313;70;13
+Sodium_Valproate_for_Injection;Sodium_Valproate_for_Injection;Sodium Bicarbonate Injection;DB01390;75;12
+Somatostatin_For_Injection;Somatostatin_For_Injection;Oxaliplatin for Injection;DB00526;73;8
+Spironolactone_Tablets;Spironolactone_Tablets;Spironolactone;DB00421;78;8
+Sterile_Water_Injection;Sterile_Water_Injection;Sterile Water for Injection;DB09145;89;4
+Terbutaline_Sulphate_Solution_for_Nebulization;Terbutaline_Sulphate_Solution_for_Nebulization;;;;
+Thymalfasin_for_Injection;Thymalfasin_for_Injection;Melphalan for Injection;DB01042;74;10
+Tigecycline_for_Injection;Tigecycline_for_Injection;Tigecycline for Injection;DB00560;96;2
+Ulinastatin_for_Injection;Ulinastatin_for_Injection;Oxaliplatin for Injection;DB00526;75;9
+Urokinase_for_Injection;Urokinase_for_Injection;Kinlytic (urokinase for Injection);DB00013;79;12
+Ursodeoxycholic_Acid_Capsules;Ursodeoxycholic_Acid_Capsules;Ursodeoxycholic acid;DB01586;79;10
+Vancomycin_Hydrochloride_for_Intra_Venous;Vancomycin_Hydrochloride_for_Intra_Venous;Vancomycin Hydrochloride for Injection USP;DB00512;81;11
+Vecuronium_Bromide_for_Injection;Vecuronium_Bromide_for_Injection;Vecuronium Bromide for Injection;DB01339;46;3
+Vitamin_A_and_D_Drops;Vitamin_A_and_D_Drops;Vitamins A and D Rash;DB11058;74;8
+Vitamin_C_Injection;Vitamin_C_Injection;Tobramycin Injection;DB00684;74;9
+Vitamin_D_Drops(capsule);Vitamin_D_Drops(capsule);Children Vitamin Drops;DB00126;40;20
+Vitamin_E_Soft_Capsules;Vitamin_E_Soft_Capsules;Vitamin E Capsules 800iu;DB00163;73;12
+Vitamin_K1_Injection;Vitamin_K1_Injection;Tobramycin Injection;DB00684;72;10
+Voriconazole_for_Injection;Voriconazole_for_Injection;Voriconazole for Injection;DB00582;96;2
+Water-soluble_Vitamin_for_Injection;Water-soluble_Vitamin_for_Injection;Water;DB09145;100;30
+Zinc_Gluconate_Granules;Zinc_Gluconate_Granules;Zinc gluconate;DB11248;72;10
+lron_Proteinsuccinylate_Oral_Solution;lron_Proteinsuccinylate_Oral_Solution;Iron protein succinylate;DB11209;71;16
+ω-3_Fish_Oil_Fat_Emulsion_Injection;ω-3_Fish_Oil_Fat_Emulsion_Injection;;;;
+disease_type_1;disease_type_1;;;;
+disease_type_2;disease_type_2;;;;
+disease_name_1;disease_name_1;;;;
+disease_name_2;disease_name_2;;;;
+INTIME;INTIME;N - Time;DB00316;83;2
+OUTTIME;OUTTIME;Lutime;DB00115;77;2
+SUBJECT_ID;SUBJECT_ID;;;;
+HADM_ID;HADM_ID;;;;
+ICUSTAY_ID;ICUSTAY_ID;;;;
+FIRST_CAREUNIT;FIRST_CAREUNIT;;;;
+LAST_CAREUNIT;LAST_CAREUNIT;;;;
+age_in_month;age_in_month;;;;
+missing_values_abs;missing_values_abs;;;;
+missing_values_pct;missing_values_pct;;;;
+gender;gender;R-Gene;DB00125;83;4
+insurance;insurance;Skindurance;DB11074;80;3
+ethnicity;ethnicity;;;;
+Death;Death;DG health;DB00281;77;3
+sputum_positive_bacteria;sputum_positive_bacteria;;;;
+sputum_positive_fungi;sputum_positive_fungi;;;;
+Pneumonia_unspecified_-_annotated;Pneumonia_unspecified_-_annotated;;;;
