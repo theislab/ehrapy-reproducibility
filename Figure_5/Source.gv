@@ -1,0 +1,6 @@
+digraph {
+drugcat_Corticosteroids -> Asparate_Aminotransferase_AST_avg;
+drugcat_Corticosteroids -> Alanine_Aminotransferase_ALT_avg;
+drugcat_Penicillins -> drugcat_beta_Lactams;
+drugcat_beta_Lactams -> drugcat_Carbapenems;
+}
