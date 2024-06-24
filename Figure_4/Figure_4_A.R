@@ -15,7 +15,7 @@ data <- read.csv(
 )
 
 # replace categories by correct strings
-data = data %>% 
+data = data %>%
   dplyr::mutate(group = dplyr::case_when(
     group == "viral pneumonia, mild course" ~ "viral pneumonia (n=97)",
     group == "sepsis" ~ "sepsis-like pneumonia (n=28)",
@@ -37,15 +37,15 @@ cols_to_plot = c(
   "Albumin_min",
   "LOS"
 )
-data_long <- data %>% 
+data_long <- data %>%
   tidyr::pivot_longer(cols = all_of(cols_to_plot), names_to = "variable", values_to = "value")
 
 
 # define custom colors and panel labels
 custom_colors <- c(
-  "viral pneumonia (n=97)" = "#d72428", 
-  "severe pneumonia with co-infection (n=74)" = "#29a137", 
-  "sepsis-like pneumonia (n=28)" = "#f07e1b", 
+  "viral pneumonia (n=97)" = "#d72428",
+  "severe pneumonia with co-infection (n=74)" = "#29a137",
+  "sepsis-like pneumonia (n=28)" = "#f07e1b",
   "mild bacterial pneumonia (n=78)" = "#1c78b5"
 )
 
@@ -71,7 +71,7 @@ legend_data <- data.frame(
 
 
 # plot
-p <- ggplot(data_long, aes(x = value, color = group)) + 
+p <- ggplot(data_long, aes(x = value, color = group)) +
   geom_density(aes(group = group), size = 1, show.legend = FALSE) +
   geom_point(data = legend_data, aes(y = Inf, x = Inf, color = group, fill = group), shape = 21, size = 0) + # size = 0 to hide spot
   scale_color_manual(values = custom_colors) +
@@ -88,4 +88,3 @@ p <- ggplot(data_long, aes(x = value, color = group)) +
 p <- p + geom_segment(aes(x = Inf, y = -Inf, xend = Inf, yend = Inf), lineend = "butt", color = "black")
 
 p
-
